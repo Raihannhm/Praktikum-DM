@@ -1,0 +1,1683 @@
+School,Location,Control,Type,Enrollment,Founded,State
+Central Michigan University,Mount Pleasant,Public,Doctoral university with high research activity (R2),14488.0,1892.0,Michigan
+Eastern Michigan University,Ypsilanti,Public,Doctoral university with high research activity (R2),12631.0,1849.0,Michigan
+Michigan State University,East Lansing,Public,Doctoral university with very high research activity (R1),52089.0,1855.0,Michigan
+Michigan Technological University,Houghton,Public,Doctoral university with very high research activity (R1),7403.0,1885.0,Michigan
+Oakland University,Rochester Hills,Public,Doctoral university with high research activity (R2),15768.0,1957.0,Michigan
+University of Michigan,Ann Arbor,Public,Doctoral university with very high research activity (R1),52855.0,1817.0,Michigan
+Wayne State University,Detroit,Public,Doctoral university with very high research activity (R1),23803.0,1868.0,Michigan
+Western Michigan University,Kalamazoo,Public,Doctoral university with high research activity (R2),16744.0,1903.0,Michigan
+Andrews University,Berrien Springs,Private,Doctoral/professional university (D/PU),2940.0,1874.0,Michigan
+Ferris State University,Big Rapids,Public,Doctoral/professional university (D/PU),9959.0,1884.0,Michigan
+Grand Valley State University,Allendale,Public,Doctoral/professional university (D/PU),22011.0,1960.0,Michigan
+University of Detroit Mercy,Detroit,Private,Doctoral/professional university (D/PU),5587.0,1877.0,Michigan
+University of Michigan–Flint,Flint,Public,Doctoral/professional university (D/PU),6529.0,1956.0,Michigan
+Baker College,Owosso,Private,Master's university (M2),3955.0,1911.0,Michigan
+Calvin University,Grand Rapids,Private,Master's university (M3),3681.0,1876.0,Michigan
+Concordia University Ann Arbor,Ann Arbor,Private,Master's university (M3),1135.0,1963.0,Michigan
+Cornerstone University,Grand Rapids,Private,Master's university (M1),1695.0,1941.0,Michigan
+Davenport University,Grand Rapids,Private,Master's university (M1),4815.0,1866.0,Michigan
+Kettering University,Flint,Private,Master's university (M2),1466.0,1919.0,Michigan
+Lawrence Technological University,Southfield,Private,Master's university (M1),3693.0,1932.0,Michigan
+Madonna University,Livonia,Private,Master's university (M2),2124.0,1937.0,Michigan
+Northern Michigan University,Marquette,Public,Master's university (M2),7409.0,1899.0,Michigan
+Saginaw Valley State University,University Center,Public,Master's university (M1),6822.0,1963.0,Michigan
+Spring Arbor University,Spring Arbor,Private,Master's university (M1),2441.0,1873.0,Michigan
+University of Michigan–Dearborn,Dearborn,Public,Master's university (M1),8104.0,1959.0,Michigan
+Adrian College,Adrian,Private,Baccalaureate College: Diverse Fields.,1765.0,1859.0,Michigan
+Albion College,Albion,Private,Baccalaureate College: Arts & Sciences,1308.0,1835.0,Michigan
+Alma College,Alma,Private,Baccalaureate College: Diverse Fields,1197.0,1886.0,Michigan
+Aquinas College,Grand Rapids,Private,Baccalaureate College: Arts & Sciences,1157.0,1886.0,Michigan
+Grace Christian University,Wyoming,Private,Baccalaureate College: Diverse Fields,1017.0,1939.0,Michigan
+Great Lakes Christian College,Lansing,Private,Baccalaureate College: Diverse Fields,210.0,1949.0,Michigan
+Hillsdale College,Hillsdale,Private,Baccalaureate College: Arts & Sciences,1792.0,1844.0,Michigan
+Hope College,Holland,Private,Baccalaureate College: Arts & Sciences,3395.0,1866.0,Michigan
+Kalamazoo College,Kalamazoo,Private,Baccalaureate College: Arts & Sciences,1166.0,1833.0,Michigan
+Kuyper College,Grand Rapids,Private,Baccalaureate College: Diverse Fields,161.0,1939.0,Michigan
+Lake Superior State University,Sault Ste. Marie,Public,Baccalaureate College: Diverse Fields,1567.0,1946.0,Michigan
+Rochester Christian University,Rochester Hills,Private,Baccalaureate College: Diverse Fields,1193.0,1959.0,Michigan
+Sacred Heart Major Seminary,Detroit,Private,Baccalaureate College: Arts & Sciences,351.0,1919.0,Michigan
+University of Olivet,Olivet,Private,Baccalaureate College: Diverse Fields,979.0,1844.0,Michigan
+Alpena Community College,Alpena,Public,Baccalaureate/associate's college,1581.0,1952.0,Michigan
+Henry Ford College,Dearborn,Public,Baccalaureate/associate's college,11410.0,1938.0,Michigan
+Jackson College,Jackson,Public,Baccalaureate/associate's college,5086.0,1928.0,Michigan
+Lake Michigan College,Benton Harbor,Public,Baccalaureate/associate's college,2937.0,1946.0,Michigan
+Northwestern Michigan College,Traverse City,Public,Baccalaureate/associate's college,3253.0,1951.0,Michigan
+Schoolcraft College,Livonia,Public,Baccalaureate/associate's college,8587.0,1964.0,Michigan
+Bay de Noc Community College,Escanaba,Public,Associate's college,2149.0,1962.0,Michigan
+Delta College,University Center,Public,Associate's college,8397.0,1961.0,Michigan
+Glen Oaks Community College,Centreville,Public,Associate's college,1183.0,1965.0,Michigan
+Gogebic Community College,Ironwood,Public,Associate's college,882.0,1932.0,Michigan
+Grand Rapids Community College,Grand Rapids,Public,Associate's college,12468.0,1914.0,Michigan
+Kalamazoo Valley Community College,Kalamazoo,Public,Associate's college,6334.0,1966.0,Michigan
+Kellogg Community College,Battle Creek,Public,Associate's college,4036.0,1956.0,Michigan
+Kirtland Community College,Roscommon,Public,Associate's college,1905.0,1966.0,Michigan
+Lansing Community College,Lansing,Public,Associate's college,9821.0,1957.0,Michigan
+Macomb Community College,Warren,Public,Associate's college,16300.0,1954.0,Michigan
+Mid Michigan College,Harrison,Public,Associate's college,3692.0,1965.0,Michigan
+Monroe County Community College,Monroe,Public,Associate's college,2210.0,1964.0,Michigan
+Montcalm Community College,Sidney Township,Public,Associate's college,1751.0,1965.0,Michigan
+Mott Community College,Flint,Public,Associate's college,6718.0,1923.0,Michigan
+Muskegon Community College,Muskegon,Public,Associate's college,3617.0,1926.0,Michigan
+North Central Michigan College,Petoskey,Public,Associate's college,1613.0,1958.0,Michigan
+Oakland Community College,Bloomfield Hills,Public,Associate's college,15287.0,1964.0,Michigan
+Southwestern Michigan College,Dowagiac,Public,Associate's college,2000.0,1964.0,Michigan
+St. Clair County Community College,Port Huron,Public,Associate's college,3317.0,1923.0,Michigan
+Washtenaw Community College,Ann Arbor,Public,Associate's college,11133.0,1966.0,Michigan
+Wayne County Community College District,Detroit,Public,Associate's college,11887.0,1967.0,Michigan
+West Shore Community College,Scottville,Public,Associate's college,1120.0,1967.0,Michigan
+Calvin Theological Seminary,Grand Rapids,Private,Special-focus institution,367.0,1876.0,Michigan
+Cleary University,Howell,Private,Special-focus institution,1004.0,1883.0,Michigan
+College for Creative Studies,Detroit,Private,Special-focus institution,1433.0,1906.0,Michigan
+Cranbrook Academy of Art,Bloomfield Hills,Private,Special-focus institution,113.0,1932.0,Michigan
+Ecumenical Theological Seminary,Detroit,Private,Special-focus institution,63.0,1980.0,Michigan
+Michigan School of Psychology,Farmington Hills,Private,Special-focus institution,190.0,1980.0,Michigan
+Moody Theological Seminary–Michigan,Plymouth,Private,Special-focus institution,,1925.0,Michigan
+Northwood University,Midland,Private,Special-focus institution,2409.0,1959.0,Michigan
+Walsh College,Troy,Private,Special-focus institution,908.0,1922.0,Michigan
+Thomas M Cooley Law School,Lansing,Private,Special-focus institution,420.0,1972.0,Michigan
+Western Michigan University Homer Stryker M.D. School of Medicine,Kalamazoo,Private,Special-focus institution,346.0,2011.0,Michigan
+Western Theological Seminary,Holland,Private,Special-focus institution,397.0,1866.0,Michigan
+Yeshiva Gedolah of Greater Detroit,Oak Park,Private,Special-focus institution,75.0,1985.0,Michigan
+Bay Mills Community College,Brimley,Public,Tribal college,698.0,1984.0,Michigan
+Keweenaw Bay Ojibwa Community College,Baraga,Public,Tribal college,243.0,2009.0,Michigan
+Saginaw Chippewa Tribal College,Mount Pleasant,Public,Tribal college,196.0,1998.0,Michigan
+Air Force Institute of Technology,Wright-Patterson Air Force Base,Public,Doctoral Universities: High Research Activity,1070.0,1919.0,Ohio
+Allegheny Wesleyan College,Salem,Private,Special Focus Four-Year: Faith-Related Institutions,60.0,1957.0,Ohio
+American Institute of Alternative Medicine,Columbus,Private,Special Focus Four-Year: Other Health Professions Schools,251.0,1990.0,Ohio
+Antioch College,Yellow Springs,Private,Baccalaureate Colleges: Arts & Sciences Focus,121.0,1850.0,Ohio
+Antioch University,Yellow Springs,Private,Baccalaureate Colleges: Arts & Sciences Focus (Antioch University Online); Special Focus Four-Year: Business & Management Schools (PhD Program in Leadership and Change),486.0,1988.0,Ohio
+Art Academy of Cincinnati,Cincinnati,Private,"Special Focus Four-Year: Arts, Music & Design Schools",213.0,1869.0,Ohio
+Ashland University,Ashland,Private,Master's Colleges & Universities: Larger Programs,4106.0,1878.0,Ohio
+ATA College -Cincinnati,Cincinnati,Private,Special Focus Two-Year: Health Professions,266.0,1994.0,Ohio
+Athena Career Academy,Toledo,Private,Special Focus Two-Year: Other Fields,516.0,2010.0,Ohio
+Athenaeum of Ohio,Cincinnati,Private,Special Focus Four-Year: Faith-Related Institutions,156.0,1829.0,Ohio
+Aultman College of Nursing and Health Sciences,Canton,Private,Special Focus Four-Year: Other Health Professions Schools,286.0,1892.0,Ohio
+Baldwin Wallace University,Berea,Private,Master's Colleges & Universities: Larger Programs,3305.0,1845.0,Ohio
+Belmont College,St. Clairsville,Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,2020.0,1971.0,Ohio
+Bluffton University,Bluffton,Private,Baccalaureate Colleges: Diverse Fields,646.0,1899.0,Ohio
+Bowling Green State University-Firelands,Huron,Public,Associate's Colleges: Mixed Transfer/Career & Technical-Mixed Traditional/Nontraditional,2097.0,1968.0,Ohio
+Bowling Green State University -Main Campus,Bowling Green,Public,Doctoral Universities: High Research Activity,17594.0,1910.0,Ohio
+Bryant & Stratton College,"Akron , Parma , and Solon",Private,Baccalaureate/Associate's Colleges: Associate's Dominant,624.0,1854.0,Ohio
+Capital University,Bexley,Private,Master's Colleges & Universities: Larger Programs,2263.0,1830.0,Ohio
+Case Western Reserve University,Cleveland,Private,Doctoral Universities: Very High Research Activity,12475.0,1826.0,Ohio
+Cedarville University,Cedarville,Private,Master's Colleges & Universities: Medium Programs,6318.0,1887.0,Ohio
+Central Ohio Technical College,Newark,Public,Associate's Colleges: High Career & Technical-High Nontraditional,3182.0,1971.0,Ohio
+Central State University,Wilberforce,Public,Baccalaureate Colleges: Diverse Fields,2708.0,1887.0,Ohio
+Cincinnati State Technical and Community College,Cincinnati,Public,Associate's college,9683.0,1969.0,Ohio
+Clark State College,Springfield,Public,Associate's college,5077.0,1962.0,Ohio
+Cleveland Institute of Art,Cleveland,Private,Special-focus institution,545.0,1882.0,Ohio
+Cleveland Institute of Music,Cleveland,Private,Special-focus institution,293.0,1920.0,Ohio
+Cleveland State University,Cleveland,Public,Doctoral/higher research university,14074.0,1964.0,Ohio
+Columbus College of Art and Design,Columbus,Private,Special-focus institution,916.0,1879.0,Ohio
+Columbus State Community College,Columbus,Public,Associate's college,28081.0,1963.0,Ohio
+Cuyahoga Community College,Cleveland,Public,Associate's college,17840.0,1963.0,Ohio
+Defiance College,Defiance,Private,Baccalaureate college,568.0,1850.0,Ohio
+Denison University,Granville,Private,Baccalaureate college,2394.0,1831.0,Ohio
+Edison State Community College,Piqua,Public,Associate's college,4624.0,1973.0,Ohio
+Franciscan University of Steubenville,Steubenville,Private,Master's university,3976.0,1946.0,Ohio
+Franklin University,Columbus,Private,Special-focus institution,9457.0,1902.0,Ohio
+Heidelberg University,Tiffin,Private,Master's university,1091.0,1850.0,Ohio
+Hiram College,Hiram,Private,Baccalaureate college,1061.0,1850.0,Ohio
+Hocking College,Nelsonville,Public,Associate's college,1486.0,1968.0,Ohio
+Hondros College of Nursing,Columbus,Private,Associate's college,3857.0,1981.0,Ohio
+James A. Rhodes State College,Lima,Public,Associate's college,4124.0,1971.0,Ohio
+John Carroll University,University Heights,Private,Master's university,2864.0,1886.0,Ohio
+Kent State University,Kent,Public,Doctoral/highest research university,40962.0,1910.0,Ohio
+Kenyon College,Gambier,Private,Baccalaureate college,2249.0,1824.0,Ohio
+Kettering College,Kettering,Private,Special-focus institution,757.0,1967.0,Ohio
+Lake Erie College,Painesville,Private,Master's university,1108.0,1856.0,Ohio
+Lakeland Community College,Kirtland and Madison,Public,Associate's college,4358.0,1967.0,Ohio
+Lorain County Community College,"Elyria , Wellington , North Ridgeville , and Lorain",Public,Associate's college,9350.0,1963.0,Ohio
+Malone University,Canton,Private,Master's university,1256.0,1892.0,Ohio
+Marietta College,Marietta,Private,Baccalaureate college,1109.0,1835.0,Ohio
+Marion Technical College,Marion,Public,Associate's college,3346.0,1970.0,Ohio
+Mercy College of Ohio,Toledo,Private,Special-focus institution,1096.0,1917.0,Ohio
+Mount Carmel College of Nursing,Columbus,Private,Special-focus institution,670.0,1903.0,Ohio
+Miami University,Oxford,Public,Doctoral/higher research university,22508.0,1809.0,Ohio
+Mount St. Joseph University,Cincinnati,Private,Master's university,2265.0,1920.0,Ohio
+Mount Vernon Nazarene University,Mount Vernon,Private,Master's university,1671.0,1968.0,Ohio
+Muskingum University,New Concord,Private,Master's university,1751.0,1837.0,Ohio
+North Central State College,Mansfield,Public,Associate's college,2553.0,1961.0,Ohio
+Northeast Ohio Medical University,Rootstown,Public,Doctoral/M.D./Pharm.D./higher research university,1029.0,1972.0,Ohio
+Northwest State Community College,Archbold,Public,Associate's college,4082.0,1968.0,Ohio
+Oberlin College,Oberlin,Private,Baccalaureate college,2909.0,1833.0,Ohio
+Ohio University,Athens,Public,Doctoral/highest research university,35580.0,1804.0,Ohio
+Ohio Christian University,Circleville,Private,Baccalaureate college,1431.0,1947.0,Ohio
+Ohio Dominican University,Columbus,Private,Master's university,1209.0,1911.0,Ohio
+Ohio Northern University,Ada,Private,Baccalaureate college,3140.0,1871.0,Ohio
+Ohio State University,Columbus,Public,Doctoral/highest research university,66408.0,1870.0,Ohio
+Ohio Technical College,Cleveland,Private,Associate's college,683.0,1969.0,Ohio
+Ohio Wesleyan University,Delaware,Private,Baccalaureate college,1525.0,1842.0,Ohio
+Otterbein University,Westerville,Private,Master's university,2332.0,1847.0,Ohio
+Owens Community College,Toledo and Findlay,Public,Associate's college,7854.0,1965.0,Ohio
+Payne Theological Seminary,Wilberforce,Private,Special Focus Four-Year: Faith-Related Institutions,124.0,1894.0,Ohio
+Pontifical College Josephinum,Columbus,Private,Special-focus institution,88.0,1888.0,Ohio
+Remington College,Cleveland,Private,Special-focus institution,197.0,1987.0,Ohio
+Shawnee State University,Portsmouth,Public,Baccalaureate college,3231.0,1986.0,Ohio
+Sinclair Community College,Dayton,Public,Associate's college,19415.0,1887.0,Ohio
+Southern State Community College,"Hillsboro , Mount Orab , Wilmington , and Washington Court House",Public,Associate's college,2227.0,1971.0,Ohio
+Stark State College,Canton,Public,Associate's college,10128.0,1960.0,Ohio
+Terra State Community College,Fremont,Public,Associate's college,2214.0,1968.0,Ohio
+Tiffin University,Tiffin,Private,Master's university,3831.0,1888.0,Ohio
+United Theological Seminary,Dayton,Private,Special Focus Four-Year: Faith-Related Institutions,510.0,1871.0,Ohio
+University of Akron Main Campus,Akron,Public,Doctoral Universities: High Research Activity,13332.0,1870.0,Ohio
+University of Akron Wayne College,Orrville,Public,Associate's Colleges: High Transfer-High Nontraditional,1411.0,1972.0,Ohio
+University of Cincinnati,Cincinnati,Public,Doctoral/highest research university,62292.0,1819.0,Ohio
+University of Dayton,Dayton,Private,Doctoral/higher research university,10506.0,1850.0,Ohio
+University of Findlay,Findlay,Private,Master's university,5016.0,1882.0,Ohio
+University of Mount Union,Alliance,Private,Baccalaureate college,2461.0,1846.0,Ohio
+University of Northwestern Ohio,Lima,Private,Mixed baccalaureate/associate's college,2525.0,1920.0,Ohio
+University of Rio Grande,Rio Grande,Private,Mixed baccalaureate/associate's college,2258.0,1876.0,Ohio
+University of Toledo,Toledo,Public,Doctoral/higher research university,14358.0,1872.0,Ohio
+Ursuline College,Pepper Pike,Private,Master's university,970.0,1871.0,Ohio
+Walsh University,North Canton,Private,Master's university,2192.0,1958.0,Ohio
+Washington State Community College,Marietta,Public,Associate's college,2025.0,1971.0,Ohio
+Wilberforce University,Wilberforce,Private,"Baccalaureate college, HBCU",838.0,1856.0,Ohio
+Wilmington College,Wilmington,Private,Master's university,1040.0,1870.0,Ohio
+Winebrenner Theological Seminary,Findlay,Private,Special Focus Four-Year: Faith-Related Institutions,122.0,1942.0,Ohio
+Wittenberg University,Springfield,Private,Baccalaureate college,1285.0,1845.0,Ohio
+The College of Wooster,Wooster,Private,Baccalaureate college,1738.0,1866.0,Ohio
+Wright State University,Fairborn,Public,Doctoral/higher research university,11959.0,1967.0,Ohio
+Xavier University,Cincinnati,Private,Master's university,5501.0,1831.0,Ohio
+Youngstown State University,Youngstown,Public,Master's university,12204.0,1908.0,Ohio
+Zane State College,Zanesville,Public,Associate's college,1769.0,1969.0,Ohio
+Appalachian State University,Boone,Public,Master's university,21570.0,1899.0,North Carolina
+Barber-Scotia College,Concord,Private,Baccalaureate college ( Unaccredited ),,1867.0,North Carolina
+Barton College,Wilson,Private,Baccalaureate college,1235.0,1902.0,North Carolina
+Belmont Abbey College,Belmont,Private,Baccalaureate college,1388.0,1876.0,North Carolina
+Bennett College,Greensboro,Private,Baccalaureate college,180.0,1873.0,North Carolina
+Brevard College,Brevard,Private,Baccalaureate college,875.0,1853.0,North Carolina
+Cabarrus College of Health Sciences,Concord,Private,Special-focus institution,924.0,1942.0,North Carolina
+Campbell University,Buies Creek,Private,Doctoral/Professional university,4963.0,1887.0,North Carolina
+Carolina Christian College,Winston-Salem,Private,Special-focus institution,71.0,1945.0,North Carolina
+Carolina College of Biblical Studies,Fayetteville,Private,Special-focus institution,212.0,1973.0,North Carolina
+Carolina University,Winston-Salem,Private,Master's university,880.0,1945.0,North Carolina
+Carolinas College of Health Sciences,Charlotte,Public,Special-focus institution,632.0,1990.0,North Carolina
+Catawba College,Salisbury,Private,Baccalaureate college,1376.0,1851.0,North Carolina
+Charlotte Christian College and Theological Seminary,Charlotte,Private,Special-focus institution,58.0,1996.0,North Carolina
+Chowan University,Murfreesboro,Private,Baccalaureate college,675.0,1848.0,North Carolina
+Davidson College,Davidson,Private,Baccalaureate college,1869.0,1837.0,North Carolina
+Duke University,Durham,Private,Research university,17499.0,1838.0,North Carolina
+East Carolina University,Greenville,Public,Research university,26940.0,1907.0,North Carolina
+Elizabeth City State University,Elizabeth City,Public,Baccalaureate college,2258.0,1891.0,North Carolina
+Elon University,Elon,Private,Doctoral/Professional university,7239.0,1889.0,North Carolina
+Fayetteville State University,Fayetteville,Public,Master's university,7107.0,1867.0,North Carolina
+Gardner-Webb University,Boiling Springs,Private,Doctoral/Professional university,3104.0,1905.0,North Carolina
+Greensboro College,Greensboro,Private,Master's university,967.0,1838.0,North Carolina
+Guilford College,Greensboro,Private,Baccalaureate college,1180.0,1837.0,North Carolina
+Heritage Bible College,Dunn,Private,Faith-related institution,26.0,1971.0,North Carolina
+High Point University,High Point,Private,Baccalaureate college,6331.0,1924.0,North Carolina
+Hood Theological Seminary,Salisbury,Private,Special-focus institution,115.0,1879.0,North Carolina
+Johnson & Wales University - Charlotte,Charlotte,Private,Baccalaureate college,1184.0,1914.0,North Carolina
+Johnson C. Smith University,Charlotte,Private,Baccalaureate college,1302.0,1867.0,North Carolina
+Lees-McRae College,Banner Elk,Private,Baccalaureate college,910.0,1900.0,North Carolina
+Lenoir–Rhyne University,Hickory,Private,Master's university,2256.0,1891.0,North Carolina
+Livingstone College,Salisbury,Private,Baccalaureate college,936.0,1879.0,North Carolina
+Manna University,Fayetteville,Private,Baccalaureate college,268.0,1978.0,North Carolina
+Mars Hill University,Mars Hill,Private,Baccalaureate college,1110.0,1856.0,North Carolina
+Meredith College,Raleigh,Private,Baccalaureate college,1465.0,1891.0,North Carolina
+Methodist University,Fayetteville,Private,Master's university,1822.0,1956.0,North Carolina
+Mid-Atlantic Christian University,Elizabeth City,Private,Baccalaureate college,140.0,1948.0,North Carolina
+Montreat College,Montreat,Private,Baccalaureate college,962.0,1916.0,North Carolina
+North Carolina A&T State University,Greensboro,Public,Research university,14311.0,1891.0,North Carolina
+North Carolina Central University,Durham,Public,Master's university,8579.0,1909.0,North Carolina
+North Carolina State University,Raleigh,Public,Research university,38464.0,1887.0,North Carolina
+North Carolina Wesleyan University,Rocky Mount,Private,Baccalaureate college,1419.0,1956.0,North Carolina
+Pfeiffer University,Misenheimer,Private,Master's university,889.0,1885.0,North Carolina
+Queens University of Charlotte,Charlotte,Private,Master's university,1599.0,1857.0,North Carolina
+Saint Augustine's University,Raleigh,Private,Baccalaureate college ( Unaccredited ),,1867.0,North Carolina
+Salem College,Winston-Salem,Private,Baccalaureate college,549.0,1772.0,North Carolina
+Shaw University,Raleigh,Private,Baccalaureate college,964.0,1865.0,North Carolina
+Shepherds Theological Seminary,Cary,Private,Faith-related institution,201.0,2003.0,North Carolina
+Southeastern Baptist Theological Seminary and Judson College,Wake Forest,Private,Faith-related institution,3220.0,1950.0,North Carolina
+Southeastern Free Will Baptist College,Wendell,Private,Faith-related institution,64.0,1983.0,North Carolina
+University of Mount Olive,Mount Olive,Private,Master's university,2109.0,1951.0,North Carolina
+University of North Carolina at Asheville,Asheville,Public,Baccalaureate college,3056.0,1927.0,North Carolina
+University of North Carolina at Chapel Hill ( Flagship university ),Chapel Hill,Public,Research university,32438.0,1789.0,North Carolina
+University of North Carolina at Charlotte,Charlotte,Public,Research university,31091.0,1946.0,North Carolina
+University of North Carolina at Greensboro,Greensboro,Public,Research university,18012.0,1891.0,North Carolina
+University of North Carolina at Pembroke,Pembroke,Public,Master's university,7674.0,1887.0,North Carolina
+University of North Carolina School of the Arts,Winston-Salem,Public,Special-focus Institution,1111.0,1963.0,North Carolina
+University of North Carolina at Wilmington,Wilmington,Public,Research university,18848.0,1947.0,North Carolina
+Wake Forest University,Winston-Salem,Private,Research university,9322.0,1834.0,North Carolina
+Warren Wilson College,Swannanoa,Private,Baccalaureate college,791.0,1894.0,North Carolina
+Western Carolina University,Cullowhee,Public,Doctoral/Professional university,11686.0,1889.0,North Carolina
+William Peace University,Raleigh,Private,Baccalaureate college,722.0,1857.0,North Carolina
+Wingate University,Wingate,Private,Doctoral/Professional university,3458.0,1896.0,North Carolina
+Winston-Salem State University,Winston-Salem,Public,Doctoral/Professional university,4782.0,1892.0,North Carolina
+American International College,Springfield,Private,Master's university,2037.0,1885.0,Massachusetts
+Amherst College,Amherst,Private,Baccalaureate college,1914.0,1821.0,Massachusetts
+Assumption University,Worcester,Private,Master's university,2037.0,1904.0,Massachusetts
+Babson College,Wellesley,Private,Special-focus institution,3932.0,1919.0,Massachusetts
+Bay Path University,Longmeadow,Private,Master's university,2605.0,1897.0,Massachusetts
+Benjamin Franklin Cummings Institute of Technology,Boston,Private,Baccalaureate/associate's college,744.0,1908.0,Massachusetts
+Bentley University,Waltham,Private,Master's university,5333.0,1917.0,Massachusetts
+Berklee College of Music,Boston,Private,Master's university,8369.0,1945.0,Massachusetts
+Berkshire Community College,Pittsfield,Public,Associate's college,1694.0,1960.0,Massachusetts
+Boston Architectural College,Boston,Private,Special-focus institution,853.0,1889.0,Massachusetts
+Boston Baptist College,Milton,Private,Special-focus institution,43.0,1976.0,Massachusetts
+Boston College,Chestnut Hill,Private,Research university,15234.0,1863.0,Massachusetts
+Boston Graduate School of Psychoanalysis,Brookline,Private,Special-focus institution,169.0,1973.0,Massachusetts
+Boston University,Boston,Private,Research university,37737.0,1839.0,Massachusetts
+Brandeis University,Waltham,Private,Research university,4696.0,1948.0,Massachusetts
+Bridgewater State University,Bridgewater,Public,Master's university,9492.0,1840.0,Massachusetts
+Bristol Community College,"Fall River , New Bedford , Taunton , Attleboro",Public,Associate's college,6950.0,1965.0,Massachusetts
+Bunker Hill Community College,Boston,Public,Associate's college,9876.0,1973.0,Massachusetts
+Cambridge College,Cambridge,Private,Master's university,1835.0,1971.0,Massachusetts
+Cape Cod Community College,West Barnstable,Public,Associate's college,3260.0,1961.0,Massachusetts
+Clark University,Worcester,Private,Research university,3275.0,1887.0,Massachusetts
+College of Our Lady of the Elms,Chicopee,Private,Master's university,1268.0,1928.0,Massachusetts
+College of the Holy Cross,Worcester,Private,Baccalaureate college,3256.0,1843.0,Massachusetts
+Conway School of Landscape Design,Northampton,Private,Special-focus institution,17.0,1972.0,Massachusetts
+Curry College,Milton,Private,Master's university,1994.0,1879.0,Massachusetts
+Dean College,Franklin,Private,Baccalaureate college,1092.0,1865.0,Massachusetts
+Emerson College,Boston,Private,Master's university,5263.0,1880.0,Massachusetts
+Emmanuel College,Boston,Private,Baccalaureate college,1954.0,1919.0,Massachusetts
+Endicott College,Beverly,Private,Master's university,4394.0,1939.0,Massachusetts
+FINE Mortuary College,Norwood,Private,Special-focus institution,185.0,1996.0,Massachusetts
+Fisher College,Boston,Private,Baccalaureate college,1652.0,1903.0,Massachusetts
+Fitchburg State University,Fitchburg,Public,Master's university,5892.0,1894.0,Massachusetts
+Framingham State University,Framingham,Public,Master's university,3529.0,1839.0,Massachusetts
+Franklin W Olin College of Engineering,Needham,Private,Special-focus institution,405.0,1997.0,Massachusetts
+Gordon College,Wenham,Private,Baccalaureate college,1595.0,1889.0,Massachusetts
+Gordon–Conwell Theological Seminary,South Hamilton,Private,Special-focus institution,1352.0,1969.0,Massachusetts
+Greenfield Community College,Greenfield,Public,Associate's college,1689.0,1962.0,Massachusetts
+Hampshire College,Amherst,Private,Baccalaureate college,844.0,1965.0,Massachusetts
+Harvard University,Cambridge,Private,Research university,30259.0,1636.0,Massachusetts
+Hebrew College,Newton,Private,Special-focus institution,163.0,1921.0,Massachusetts
+Hellenic College Holy Cross Greek Orthodox School of Theology,Brookline,Private,Baccalaureate college,274.0,1937.0,Massachusetts
+Holyoke Community College,Holyoke,Public,Associate's college,4200.0,1946.0,Massachusetts
+Hult International Business School,Cambridge,Private,Special-focus institution,2008.0,1964.0,Massachusetts
+Lasell University,Newton,Private,Master's university,1454.0,1851.0,Massachusetts
+Lesley University,Cambridge,Private,Doctorate-granting university,2557.0,1909.0,Massachusetts
+Longy School of Music of Bard College,Cambridge,Private,Special-focus institution,317.0,1915.0,Massachusetts
+Massachusetts Bay Community College,Wellesley,Public,Associate's college,4578.0,1961.0,Massachusetts
+Massachusetts College of Art and Design,Boston,Public,Special-focus institution,1989.0,1873.0,Massachusetts
+Massachusetts College of Liberal Arts,North Adams,Public,Baccalaureate college,896.0,1894.0,Massachusetts
+Massachusetts College of Pharmacy and Health Sciences,"Boston , Worcester, Manchester",Private,Special-focus institution,5945.0,1823.0,Massachusetts
+Massachusetts Institute of Technology,Cambridge,Private,Research university,11886.0,1861.0,Massachusetts
+Massachusetts Maritime Academy,Bourne,Public,Master's university,1488.0,1891.0,Massachusetts
+Massachusetts School of Law,Andover,Private,Special-focus institution,273.0,1988.0,Massachusetts
+Massasoit Community College,"Brockton , Middleboro , Canton",Public,Associate's college,5574.0,1966.0,Massachusetts
+Merrimack College,North Andover,Private,Master's university,5862.0,1947.0,Massachusetts
+MGH Institute of Health Professions,Boston,Private,Special-focus institution,1672.0,1977.0,Massachusetts
+Middlesex Community College,"Lowell , Bedford",Public,Associate's college,9374.0,1970.0,Massachusetts
+Montserrat College of Art,Beverly,Private,Baccalaureate college,227.0,1970.0,Massachusetts
+Mount Holyoke College,South Hadley,Private,Baccalaureate college,2275.0,1837.0,Massachusetts
+Mount Wachusett Community College,Gardner,Public,Associate's college,3694.0,1963.0,Massachusetts
+New England College of Optometry,Boston,Private,Special-focus institution,515.0,1894.0,Massachusetts
+New England Conservatory of Music,Boston,Private,Special-focus institution,853.0,1867.0,Massachusetts
+New England Law Boston,Boston,Private,Special-focus institution,1131.0,1938.0,Massachusetts
+Nichols College,Dudley,Private,Master's university,1392.0,1931.0,Massachusetts
+North Shore Community College,Danvers,Public,Associate's college,5743.0,1965.0,Massachusetts
+Northeastern University,Boston,Private,Research university,39964.0,1898.0,Massachusetts
+Northern Essex Community College,Haverhill,Public,Associate's college,4721.0,1972.0,Massachusetts
+Pope St. John XXIII National Seminary,Weston,Private,Special-focus institution,33.0,1964.0,Massachusetts
+Quincy College,Quincy,Public,Associate's college,3022.0,1958.0,Massachusetts
+Quinsigamond Community College,Worcester,Public,Associate's college,7811.0,1963.0,Massachusetts
+Regis College,Weston,Private,Master's university,2517.0,1927.0,Massachusetts
+Roxbury Community College,Roxbury,Public,Associate's college,2044.0,1973.0,Massachusetts
+Saint John's Seminary,Brighton,Private,Special-focus institution,86.0,1884.0,Massachusetts
+Sattler College,Boston,Private,Not classified,57.0,2016.0,Massachusetts
+Salem State University,Salem,Public,Master's university,6230.0,1854.0,Massachusetts
+Simmons University,Boston,Private,Doctorate-granting university,4666.0,1899.0,Massachusetts
+Smith College,Northampton,Private,Baccalaureate college,2915.0,1875.0,Massachusetts
+Springfield College,Springfield,Private,Doctorate-granting university,2979.0,1885.0,Massachusetts
+Springfield Technical Community College,Springfield,Public,Associate's college,5447.0,1967.0,Massachusetts
+Stonehill College,Easton,Private,Baccalaureate college,2674.0,1948.0,Massachusetts
+Suffolk University,Boston,Private,Research university,6403.0,1906.0,Massachusetts
+Tufts University,"Medford , Somerville",Private,Research university,13599.0,1852.0,Massachusetts
+University of Massachusetts Amherst,Amherst,Public,Research university,31318.0,1863.0,Massachusetts
+University of Massachusetts Boston,Boston,Public,Research university,15428.0,1964.0,Massachusetts
+University of Massachusetts Chan Medical School,Worcester,Public,Special-focus institution,1489.0,1962.0,Massachusetts
+University of Massachusetts Dartmouth,Dartmouth,Public,Research university,7968.0,1895.0,Massachusetts
+University of Massachusetts Lowell,Lowell,Public,Research university,16598.0,1894.0,Massachusetts
+Urban College of Boston,Boston,Private,Associate's college,868.0,1993.0,Massachusetts
+Wellesley College,Wellesley,Private,Baccalaureate college,2285.0,1875.0,Massachusetts
+Wentworth Institute of Technology,Boston,Private,Master's university,4191.0,1904.0,Massachusetts
+Western New England University,Springfield,Private,Doctorate-granting university,3674.0,1919.0,Massachusetts
+Westfield State University,Westfield,Public,Master's university,4588.0,1839.0,Massachusetts
+Wheaton College,Norton,Private,Baccalaureate college,1785.0,1834.0,Massachusetts
+William James College,Newton,Private,Special-focus institution,967.0,1974.0,Massachusetts
+Williams College,Williamstown,Private,Baccalaureate college,2150.0,1793.0,Massachusetts
+Worcester Polytechnic Institute,Worcester,Private,Research university,7388.0,1865.0,Massachusetts
+Worcester State University,Worcester,Public,Master's university,5745.0,1874.0,Massachusetts
+American National University,Multiple,Private,Masters university,770.0,1886.0,Virginia
+Appalachian College of Pharmacy,Oakwood,Private,Special focus,113.0,2003.0,Virginia
+Appalachian School of Law,Grundy,Private,Special focus,154.0,1994.0,Virginia
+Averett University,Danville,Private,Masters university,1476.0,1859.0,Virginia
+Batten University,Norfolk,Private,Baccalaureate college,1853.0,1961.0,Virginia
+Blue Ridge Community College,Weyers Cave,Public,Associate/Baccalaureate college,3790.0,1967.0,Virginia
+Bluefield University,Bluefield,Private,Baccalaureate college,959.0,1922.0,Virginia
+Bridgewater College,Bridgewater,Private,Associate/Baccalaureate college,1448.0,1880.0,Virginia
+Brightpoint Community College,Chester,Public,Associate/Baccalaureate college,9380.0,1967.0,Virginia
+Central Virginia Community College,Lynchburg,Public,Associate/Baccalaureate college,3481.0,1966.0,Virginia
+Christendom College,Front Royal,Private,Uncategorized,615.0,1977.0,Virginia
+Christopher Newport University,Newport News,Public,Masters university,4454.0,1960.0,Virginia
+College of William & Mary,Williamsburg,Public,Research university,9818.0,1693.0,Virginia
+Danville Community College,Danville,Public,Junior college,2465.0,1936.0,Virginia
+Divine Mercy University,Sterling,Private,Doctoral university,463.0,1999.0,Virginia
+Eastern Mennonite University,Harrisonburg,Private,Baccalaureate college,1154.0,1917.0,Virginia
+Eastern Shore Community College,Melfa,Public,Junior college,859.0,1971.0,Virginia
+Eastern Virginia Medical School,Norfolk,Private,Doctoral university,1216.0,1973.0,Virginia
+ECPI University,Multiple,Private,Baccalaureate college,12572.0,1966.0,Virginia
+Emory & Henry University,Emory,Private,Baccalaureate college,1311.0,1836.0,Virginia
+Ferrum College,Ferrum,Private,Baccalaureate college,763.0,1913.0,Virginia
+George Mason University,Fairfax,Public,Research university,39766.0,1957.0,Virginia
+Germanna Community College,Locust Grove,Public,Junior college,8544.0,1970.0,Virginia
+Hampden-Sydney College,Hampden Sydney,Private,Baccalaureate college,946.0,1775.0,Virginia
+Hampton University,Hampton,Private,Masters university,4244.0,1868.0,Virginia
+Hollins University,Roanoke,Private,Baccalaureate college,761.0,1842.0,Virginia
+Institute for the Psychological Sciences,Arlington,Private,Doctoral university,160.0,1997.0,Virginia
+J. Sargeant Reynolds Community College,Richmond,Public,Associate/Baccalaureate college,8681.0,1972.0,Virginia
+James Madison University,Harrisonburg,Public,Research university,22740.0,1908.0,Virginia
+Jefferson College of Health Sciences,Roanoke,Private,Doctoral university,,1982.0,Virginia
+Laurel Ridge Community College,Middletown,Public,Associate/Baccalaureate college,5902.0,1970.0,Virginia
+Liberty University,Lynchburg,Private,Research university,104327.0,1971.0,Virginia
+Longwood University,Farmville,Public,Masters university,4612.0,1839.0,Virginia
+Marine Corps University,Quantico,Public,Special focus,269.0,1989.0,Virginia
+Mary Baldwin University,Staunton,Private,Masters university,1772.0,1842.0,Virginia
+Marymount University,Arlington,Private,Masters university,4060.0,1950.0,Virginia
+Mountain Empire Community College,Big Stone Gap,Public,Junior college,2116.0,1972.0,Virginia
+Mountain Gateway Community College,Clifton Forge,Public,Junior college,989.0,1964.0,Virginia
+New River Community College,Dublin,Public,Junior college,4254.0,1959.0,Virginia
+Norfolk State University,Norfolk,Public,Masters university,6053.0,1935.0,Virginia
+Northern Virginia Community College,Annandale,Public,Junior college,56457.0,1964.0,Virginia
+Old Dominion University,Norfolk,Public,Research university,23743.0,1930.0,Virginia
+Patrick Henry College,Purcellville,Private,Baccalaureate college,425.0,2000.0,Virginia
+Patrick & Henry Community College,Martinsville,Public,Junior college,1908.0,1962.0,Virginia
+Paul D. Camp Community College,Franklin,Public,Junior college,1219.0,1970.0,Virginia
+Piedmont Virginia Community College,Charlottesville,Public,Junior college,5263.0,1972.0,Virginia
+Radford University,Radford,Public,Masters university,7812.0,1910.0,Virginia
+Randolph College,Lynchburg,Private,Baccalaureate college,816.0,1891.0,Virginia
+Randolph–Macon College,Ashland,Private,Baccalaureate college,1687.0,1830.0,Virginia
+Rappahannock Community College,"Glenns , Warsaw",Public,Junior college,2962.0,1969.0,Virginia
+Regent University,Virginia Beach,Private,Doctoral university,10657.0,1977.0,Virginia
+Richard Bland College,Petersburg,Public,Junior college,2788.0,1960.0,Virginia
+Roanoke College,Salem,Private,Baccalaureate college,1804.0,1842.0,Virginia
+Sentara College of Health Sciences,Chesapeake,Private,Baccalaureate college,312.0,1892.0,Virginia
+Shenandoah University,Winchester,Private,Masters university,4454.0,1875.0,Virginia
+Southern Virginia University,Buena Vista,Private,Baccalaureate college,936.0,1867.0,Virginia
+Southside Virginia Community College,"Alberta , Keysville",Public,Junior college,3306.0,1970.0,Virginia
+Southwest Virginia Community College,Richlands,Public,Junior college,2364.0,1968.0,Virginia
+Sweet Briar College,Sweet Briar,Private,Associate/Baccalaureate college,444.0,1901.0,Virginia
+Tidewater Community College,"Chesapeake , Norfolk , Portsmouth , Virginia Beach",Public,Junior college,16884.0,1968.0,Virginia
+Union Presbyterian Seminary,Richmond,Private,Special focus,159.0,1896.0,Virginia
+University of Lynchburg,Lynchburg,Private,Masters university,2316.0,1903.0,Virginia
+University of Management and Technology,Arlington,Private,Baccalaureate college,979.0,1998.0,Virginia
+University of Mary Washington,Fredericksburg,Public,Masters university,3826.0,1908.0,Virginia
+University of the Potomac,Falls Church,Private,Special focus,551.0,1989.0,Virginia
+University of Richmond,Richmond,Private,Baccalaureate college,3722.0,1830.0,Virginia
+University of Virginia,Charlottesville,Public,Research university,26409.0,1819.0,Virginia
+University of Virginia's College at Wise,Wise,Public,Baccalaureate college,2167.0,1954.0,Virginia
+Virginia Commonwealth University,Richmond,Public,Research university,28464.0,1838.0,Virginia
+Virginia Highlands Community College,Abingdon,Public,Junior college,2082.0,1969.0,Virginia
+Virginia–Maryland Regional College of Veterinary Medicine,Blacksburg,Public,Masters university,480.0,1978.0,Virginia
+Virginia Military Institute,Lexington,Public,Baccalaureate college,1527.0,1839.0,Virginia
+Virginia Peninsula Community College,Hampton,Public,Junior college,6410.0,1968.0,Virginia
+Virginia Polytechnic Institute and State University ( Virginia Tech ),Blacksburg,Public,Research university,38857.0,1872.0,Virginia
+Virginia State University,Petersburg,Public,Masters university,5605.0,1882.0,Virginia
+Virginia Union University,Richmond,Private,Baccalaureate college,1646.0,1865.0,Virginia
+Virginia University of Lynchburg,Lynchburg,Private,Doctoral university,581.0,1886.0,Virginia
+Virginia University of Science & Technology,McLean,Private,Masters university,,2016.0,Virginia
+Virginia Western Community College,Roanoke,Public,Junior college,6332.0,1966.0,Virginia
+Washington and Lee University,Lexington,Private,Baccalaureate college,2241.0,1749.0,Virginia
+Wytheville Community College,Wytheville,Public,Junior college,2107.0,1963.0,Virginia
+Advanced Technology Institute,Virginia Beach,Private,Uncategorized,415.0,1992.0,Virginia
+American Digital University,Sterling,Private,Uncategorized,,,Virginia
+Aviation Institute of Maintenance,Multiple,Private,Associate's college,542.0,1969.0,Virginia
+Bethel College,Hampton,Private,Uncategorized,76.0,1887.0,Virginia
+Bon Secours Memorial College of Nursing,Richmond,Private,Uncategorized,626.0,1961.0,Virginia
+Bryant & Stratton College,Multiple,Private,Baccalaureate college,1717.0,1854.0,Virginia
+Central Texas College,Fort Lee,Public,Associate's college,16073.0,1965.0,Virginia
+Centura College,Multiple,Private,Career College,557.0,1983.0,Virginia
+Chamberlain College of Nursing,Arlington,Private,Special focus,557.0,1889.0,Virginia
+Columbia College,Fairfax,Private,Associate's college,151.0,1999.0,Virginia
+DeVry University,Multiple,Private,Masters university,19.0,1931.0,Virginia
+Edward Via College of Osteopathic Medicine,Blacksburg,Private,Special focus,2617.0,2002.0,Virginia
+Fortis College,Multiple,Private,Associate's college,901.0,2008.0,Virginia
+Georgetown University,Arlington,Private,Research university,19204.0,1789.0,Virginia
+Global Health College,Alexandria,Private,Associate's college,,2004.0,Virginia
+Johns Hopkins University,Arlington,Private,Research university,26152.0,1876.0,Virginia
+Life Pacific University,Christiansburg,Private,Special focus,,1923.0,Virginia
+Missouri State University,Fairfax,Public,Masters university,23697.0,1906.0,Virginia
+Reformed Theological Seminary,McLean,Private,Faith-related institution,,1966.0,Virginia
+Saint Leo University,Multiple,Private,Masters university,5232.0,1889.0,Virginia
+Saint Michael College of Allied Health,Alexandria,Private,Uncategorized,193.0,1971.0,Virginia
+South University,Multiple,Private,Baccalaureate college,653.0,1867.0,Virginia
+Southside Regional Medical Center Professional Schools,Petersburg,Private,Uncategorized,151.0,1895.0,Virginia
+Strayer University,Multiple,Private,Masters university,1998.0,1892.0,Virginia
+University of Fairfax,Vienna,Private,Uncategorized,,2002.0,Virginia
+"University of Maryland Global Campus , formerly UMUC",Fort Belvoir,Public,Research university,,1807.0,Virginia
+University of North America,Vienna,Private,Uncategorized,310.0,2008.0,Virginia
+Virginia School of Nursing & Medical Institute,Springfield,Private,Uncategorized,,1901.0,Virginia
+Virginia Tech Carilion School of Medicine,Roanoke,Public,Uncategorized,,2010.0,Virginia
+Virginia University of Integrative Medicine,Vienna,Private,Uncategorized,457.0,2004.0,Virginia
+Washington University of Virginia,Annandale,Private,Uncategorized,,,Virginia
+"Washington University of Science and Technology, formerly IGlobal University",Alexandria,Private,Masters university,1096.0,2008.0,Virginia
+William Samson University,Alexandria,Private,Doctoral university,,2012.0,Virginia
+Cornerstone College & Seminary,Spotsylvania,Private,Uncategorized,,1969.0,Virginia
+Hartland College,Rapidan,Private,Uncategorized,90.0,1983.0,Virginia
+John Leland Center for Theological Studies,Falls Church,Private,Uncategorized,,1998.0,Virginia
+Virginia Theological Seminary,Alexandria,Private,Uncategorized,216.0,1818.0,Virginia
+Washington Bible College and Capital Bible Seminary (Springfield Extension),Springfield,Private,Uncategorized,,1958.0,Virginia
+American College of Education,Indianapolis,Private,Special-focus institution,14263.0,2005.0,Indiana
+Anabaptist Mennonite Biblical Seminary,Elkhart,Private,Special-focus institution,145.0,1958.0,Indiana
+Anderson University,Anderson,Private,Master's university,1228.0,1917.0,Indiana
+Ball State University,Muncie,Public,Research university,21089.0,1918.0,Indiana
+Bethany Theological Seminary,Richmond,Private,Special-focus institution,61.0,1905.0,Indiana
+Bethel University,Mishawaka,Private,Master's university,1167.0,1947.0,Indiana
+Bishop Simon Bruté College Seminary,Indianapolis,Private,Special-focus institution,,2004.0,Indiana
+Butler University,Indianapolis,Private,Master's university,5746.0,1855.0,Indiana
+Calumet College of St. Joseph,Whiting,Private,Master's university,658.0,1951.0,Indiana
+Chamberlain University Indiana,Indianapolis,Private,Special-focus institution,144.0,1889.0,Indiana
+Christian Theological Seminary,Indianapolis,Private,Special-focus institution,151.0,1924.0,Indiana
+College of Biblical Studies,Indianapolis Fort Wayne,Private,Special-focus institution,,,Indiana
+College of Court Reporting,Hobart,Private,Associate's college,182.0,1984.0,Indiana
+Concordia Theological Seminary,Fort Wayne,Private,Special-focus institution,279.0,1846.0,Indiana
+DePauw University,Greencastle,Private,Baccalaureate college,1917.0,1837.0,Indiana
+Earlham College,Richmond,Private,Baccalaureate college,753.0,1847.0,Indiana
+Fortis College,Indianapolis,Private,Special-focus institution,322.0,2008.0,Indiana
+Franklin College,Franklin,Private,Baccalaureate college,985.0,1834.0,Indiana
+Goshen College,Goshen,Private,Baccalaureate college,847.0,1894.0,Indiana
+Grace College & Seminary,Winona Lake,Private,Master's university,2304.0,1937.0,Indiana
+Hanover College,Hanover,Private,Baccalaureate college,1243.0,1827.0,Indiana
+Holy Cross College,Notre Dame,Private,Baccalaureate college,661.0,1966.0,Indiana
+Huntington University,Huntington,Private,Master's university,1776.0,1897.0,Indiana
+Indiana Bible College,Indianapolis,Private,Special-focus institution,,1981.0,Indiana
+Indiana Institute of Technology,Fort Wayne,Private,Master's university,2770.0,1930.0,Indiana
+Indiana State University,Terre Haute,Public,Doctoral/professional university,7895.0,1865.0,Indiana
+Indiana University Bloomington,Bloomington,Public,Research university,48424.0,1820.0,Indiana
+Indiana University Columbus,Columbus,Public,Unclassified,,2024.0,Indiana
+Indiana University East,Richmond,Public,Master's university,3203.0,1971.0,Indiana
+Indiana University Fort Wayne,Fort Wayne,Public,Unclassified,,2018.0,Indiana
+Indiana University Indianapolis,Indianapolis,Public,Research university,22534.0,2024.0,Indiana
+Indiana University Kokomo,Kokomo,Public,Master's university,2921.0,1945.0,Indiana
+Indiana University Northwest,Gary,Public,Master's university,3041.0,1963.0,Indiana
+Indiana University South Bend,South Bend,Public,Master's university,4631.0,1916.0,Indiana
+Indiana University Southeast,New Albany,Public,Master's university,3736.0,1941.0,Indiana
+Indiana Wesleyan University,Marion,Private,Master's university,16535.0,1920.0,Indiana
+International Business College–Indianapolis,Indianapolis,Private,Associate's college,123.0,1889.0,Indiana
+Ivy Tech Community College of Indiana,Statewide (45 locations),Public,Associate's college,110710.0,1963.0,Indiana
+Lincoln Tech,Indianapolis,Private,Associate's college,1052.0,1946.0,Indiana
+Manchester University,North Manchester,Private,Master's university,1276.0,1860.0,Indiana
+Marian University,Indianapolis,Private,Doctoral/professional university,3716.0,1851.0,Indiana
+Mid-America College of Funeral Service,Jeffersonville,Private,Special-focus institution,279.0,,Indiana
+Oakland City University,Oakland City,Private,Doctoral/professional university,640.0,1885.0,Indiana
+Purdue University,West Lafayette,Public,Research university,58658.0,1869.0,Indiana
+Purdue University Fort Wayne,Fort Wayne,Public,Master's university,7206.0,2018.0,Indiana
+Purdue University Global,Statewide (online),Public,Online Doctoral/professional university,45588.0,2018.0,Indiana
+Purdue University Northwest,Hammond Westville,Public,Master's university,9051.0,1946.0,Indiana
+Rose-Hulman Institute of Technology,Terre Haute,Private,Special-focus institution,2334.0,1874.0,Indiana
+Saint Mary's College,Notre Dame,Private,Baccalaureate college,1601.0,1844.0,Indiana
+Saint Mary-of-the-Woods College,Saint Mary-Of-The-Woods,Private,Master's university,1159.0,1840.0,Indiana
+Saint Meinrad Seminary and School of Theology,Saint Meinrad,Private,Special-focus institution,183.0,1857.0,Indiana
+Salem University–Indianapolis,Indianapolis,Private,Master's university,,1888.0,Indiana
+South College–Indianapolis,Indianapolis,Private,Doctoral/professional university,,1882.0,Indiana
+Taylor University,Upland,Private,Baccalaureate college,2548.0,1846.0,Indiana
+Trine University,Angola,Private,Baccalaureate college,14514.0,1884.0,Indiana
+Union Bible College and Academy,Westfield,Private,Special-focus institution,218.0,1861.0,Indiana
+University of Evansville,Evansville,Private,Master's university,2114.0,1854.0,Indiana
+University of Indianapolis,Indianapolis,Private,Doctoral/professional university,5000.0,1902.0,Indiana
+University of Notre Dame,Notre Dame,Private,Research university,13042.0,1842.0,Indiana
+University of Saint Francis,Fort Wayne,Private,Master's university,1763.0,1890.0,Indiana
+University of Southern Indiana,Evansville,Public,Master's university,9488.0,1965.0,Indiana
+Valparaiso University,Valparaiso,Private,Doctoral/professional university,2579.0,1859.0,Indiana
+Vincennes University,Vincennes,Public,Baccalaureate/associate's college,19795.0,1801.0,Indiana
+Veritas Baptist College,Greendale,Private,Special-focus institution,211.0,1994.0,Indiana
+Wabash College,Crawfordsville,Private,Baccalaureate college,866.0,1832.0,Indiana
+University of Missouri,Columbia,Public,Doctoral/very high activity research university,31543.0,1839.0,Missouri
+University of Missouri–Kansas City,Kansas City,Public,Doctoral/high activity research university,14732.0,1933.0,Missouri
+Missouri University of Science and Technology,Rolla,Public,Doctoral/high activity research university,7154.0,1870.0,Missouri
+University of Missouri–St. Louis,St. Louis,Public,Doctoral/high activity research university,14736.0,1963.0,Missouri
+Harris–Stowe State University,St. Louis,Public,Baccalaureate college,1002.0,1857.0,Missouri
+Lincoln University,Jefferson City,Public,Master's colleges and universities,2054.0,1866.0,Missouri
+Missouri Southern State University,Joplin,Public,Master's colleges and universities,4147.0,1937.0,Missouri
+Missouri State University,Springfield,Public,Doctoral/Professional University,24360.0,1905.0,Missouri
+Missouri Western State University,St. Joseph,Public,Master's colleges and universities,3716.0,1915.0,Missouri
+Northwest Missouri State University,Maryville,Public,Master's colleges and universities,9152.0,1905.0,Missouri
+Southeast Missouri State University,Cape Girardeau,Public,Master's colleges and universities,9501.0,1873.0,Missouri
+Truman State University,Kirksville,Public,Master's colleges and universities,3664.0,1867.0,Missouri
+University of Central Missouri,Warrensburg,Public,Master's colleges and universities,12857.0,1871.0,Missouri
+Avila University,Kansas City,Private,Baccalaureate college,2768.0,1916.0,Missouri
+Calvary University,Kansas City,Private,Baccalaureate college,244.0,1932.0,Missouri
+Central Methodist University,Fayette,Private,Baccalaureate college,4843.0,1854.0,Missouri
+City Vision University,Kansas City,Private,Baccalaureate college,296.0,1998.0,Missouri
+College of the Ozarks,Point Lookout,Private,Baccalaureate college,1454.0,1906.0,Missouri
+Columbia College,Columbia,Private,Master's colleges and universities,5689.0,1851.0,Missouri
+Cottey College,Nevada,Nonsectarian,Baccalaureate college,254.0,1884.0,Missouri
+Culver–Stockton College,Canton,Disciples of Christ,Baccalaureate college,1028.0,1853.0,Missouri
+Drury University,Springfield,Private,Master's colleges and universities,2274.0,1873.0,Missouri
+Evangel University,Springfield,Private,Baccalaureate college,2620.0,1955.0,Missouri
+Hannibal–LaGrange University,Hannibal,Private,Baccalaureate college,499.0,1858.0,Missouri
+Lindenwood University,St. Charles,Private,Master's colleges and universities,6826.0,1832.0,Missouri
+Maryville University,Town and Country,Private,Baccalaureate college,9261.0,1872.0,Missouri
+Missouri Baptist University,St. Louis,Private,Baccalaureate college,5699.0,1957.0,Missouri
+Missouri Valley College,Marshall,Private,Baccalaureate college,1770.0,1889.0,Missouri
+Park University,Parkville,Private,Master's colleges and universities,5736.0,1875.0,Missouri
+Rockhurst University,Kansas City,Private,Master's colleges and universities,3577.0,1910.0,Missouri
+Saint Louis University,St. Louis,Private,Doctoral/very high activity research university,17059.0,1818.0,Missouri
+Southwest Baptist University,Bolivar,Private,Baccalaureate college,2199.0,1878.0,Missouri
+Stephens College,Columbia,Private,Baccalaureate college,568.0,1833.0,Missouri
+Urshan University,Wentzville,Private,Baccalaureate college,474.0,1968.0,Missouri
+Washington University in St. Louis,St. Louis,Private,Doctoral/very high activity research university,16357.0,1853.0,Missouri
+Webster University,Webster Groves,Private,Master's colleges and universities,8260.0,1915.0,Missouri
+Westminster College,Fulton,Private,Baccalaureate college,640.0,1851.0,Missouri
+William Jewell College,Liberty,Private,Baccalaureate college,959.0,1849.0,Missouri
+William Woods University,Fulton,Private,Baccalaureate college,2046.0,1870.0,Missouri
+American Baptist College,Nashville,Private,Special Focus: Theological Studies,46.0,1924.0,Tennessee
+Aquinas College,Nashville,Private,,,1961.0,Tennessee
+Austin Peay State University,Clarksville,Public,Undergraduate/Graduate-Master’s (Research),10439.0,1927.0,Tennessee
+Baptist Health Sciences University,Memphis,Private,Special Focus: Nursing,891.0,1912.0,Tennessee
+Belmont University,Nashville,Private,Undergraduate/Graduate-Doctorate,8803.0,1890.0,Tennessee
+Bethel University,McKenzie,Private,Baccalaureate,2936.0,1871.0,Tennessee
+Bryan College,Dayton,Private,Undergraduate/Graduate-Master’s,1701.0,1930.0,Tennessee
+Carson-Newman University,Jefferson City,Private,Undergraduate/Graduate-Doctorate,2669.0,1851.0,Tennessee
+Christian Brothers University,Memphis,Private,Undergraduate/Graduate-Master’s,1772.0,1871.0,Tennessee
+Crown College,Powell,Private,,,1991.0,Tennessee
+Cumberland University,Lebanon,Private,Associate/Baccalaureate,3457.0,1842.0,Tennessee
+East Tennessee State University,Johnson City,Public,Undergraduate/Graduate-Doctorate (R2),13728.0,1911.0,Tennessee
+Fisk University,Nashville,Private,Special Focus: Arts and Sciences (Research),1059.0,1866.0,Tennessee
+Freed-Hardeman University,Henderson,Private,Undergraduate/Graduate-Master’s,2306.0,1869.0,Tennessee
+Johnson University,Knoxville,Private,Special Focus: Theological Studies,978.0,1893.0,Tennessee
+King University,Bristol,Private,Undergraduate/Graduate-Master’s,1157.0,1867.0,Tennessee
+Knoxville College,Knoxville,Private,,,1875.0,Tennessee
+Lane College,Jackson,Private,Special Focus: Arts and Sciences,738.0,1888.0,Tennessee
+Lee University,Cleveland,Private,Baccalaureate,3714.0,1918.0,Tennessee
+LeMoyne-Owen College,Memphis,Private,Baccalaureate,659.0,1862.0,Tennessee
+Lincoln Memorial University,Harrogate,Private,Special Focus: Medical Schools and Centers,6081.0,1897.0,Tennessee
+Lipscomb University,Nashville,Private,Undergraduate/Graduate-Doctorate,5017.0,1891.0,Tennessee
+Maryville College,Maryville,Private,Baccalaureate,1136.0,1819.0,Tennessee
+Meharry Medical College,Nashville,Private,Special Focus: Medical Schools and Centers,1226.0,1876.0,Tennessee
+Mid-America Baptist Theological Seminary,Cordova,Private,,,1971.0,Tennessee
+Middle Tennessee State University,Murfreesboro,Public,Undergraduate/Graduate-Master’s (R2),20488.0,1911.0,Tennessee
+Mid-South Christian College,Memphis,Private,Special Focus: Theological Studies,32.0,1959.0,Tennessee
+Milligan University,Carter County,Private,Undergraduate/Graduate-Master’s,1240.0,1866.0,Tennessee
+Nashville School of Law,Nashville,Private,,,1911.0,Tennessee
+New College Franklin,Nashville,Private,Special Focus: Arts and Sciences,,2009.0,Tennessee
+Omega Graduate School,Dayton,Private,Special Focus: Theological Studies,69.0,1980.0,Tennessee
+Pentecostal Theological Seminary,Cleveland,Private,Special Focus: Theological Studies,517.0,1975.0,Tennessee
+Rhodes College,Memphis,Private,Special Focus: Arts and Sciences,1861.0,1848.0,Tennessee
+Sewanee: The University of the South,Sewanee,Private,Special Focus: Arts and Sciences,1724.0,1857.0,Tennessee
+South College,Knoxville,Private,Special Focus: Other Health Professions,11557.0,1882.0,Tennessee
+Southern Adventist University,Collegedale,Private,Baccalaureate,3229.0,1892.0,Tennessee
+Southern College of Optometry,Memphis,Private,Special Focus: Other Health Professions,530.0,1932.0,Tennessee
+Tennessee Bible College,Cookeville,Private,,,1915.0,Tennessee
+Tennessee State University,Nashville,Public,Undergraduate/Graduate-Doctorate (R2),6310.0,1912.0,Tennessee
+Tennessee Technological University,Cookeville,Public,Undergraduate/Graduate-Master’s (R2),10511.0,1915.0,Tennessee
+Tennessee Wesleyan University,Athens,Private,Baccalaureate,1198.0,1857.0,Tennessee
+Trevecca Nazarene University,Nashville,Private,Undergraduate/Graduate-Doctorate,3195.0,1901.0,Tennessee
+Tusculum University,Tusculum,Private,Undergraduate/Graduate-Master’s,1103.0,1794.0,Tennessee
+Union University,Jackson,Private,Undergraduate/Graduate-Doctorate,2713.0,1823.0,Tennessee
+University of Memphis,Memphis,Public,Undergraduate/Graduate-Doctorate (R1),20276.0,1912.0,Tennessee
+University of Tennessee ( Flagship university ),Knoxville,Public,Undergraduate/Graduate-Doctorate (R1),38728.0,1794.0,Tennessee
+University of Tennessee at Chattanooga,Chattanooga,Public,Undergraduate/Graduate-Master’s (Research),11775.0,1886.0,Tennessee
+University of Tennessee Health Science Center,Memphis,Public,Special Focus: Medical Schools and Centers,3101.0,1911.0,Tennessee
+University of Tennessee at Martin,Martin,Public,Undergraduate/Graduate-Master’s,7499.0,1900.0,Tennessee
+University of Tennessee Southern,Pulaski,Public,Baccalaureate,1046.0,1870.0,Tennessee
+Vanderbilt University,Nashville,Private,Undergraduate/Graduate-Doctorate (R1),13575.0,1873.0,Tennessee
+Welch College,Gallatin,Private,Special Focus: Arts and Sciences,389.0,1942.0,Tennessee
+Williamson College,Franklin,Private,Special Focus: Business,64.0,1997.0,Tennessee
+Alexandria Technical and Community College,Alexandria,Public,Associate's college,3281.0,1961.0,Minnesota
+Anoka Technical College,Anoka,Public,Associate's college,1970.0,1967.0,Minnesota
+Anoka-Ramsey Community College,"Coon Rapids , Cambridge",Public,Associate's college,8486.0,1965.0,Minnesota
+Bemidji State University,Bemidji,Public,Master's university,4072.0,1919.0,Minnesota
+Central Lakes College,"Brainerd , Staples",Public,Associate's college,4981.0,1938.0,Minnesota
+Century College,White Bear Lake,Public,Associate's college,8726.0,1967.0,Minnesota
+Dakota County Technical College,Rosemount,Public,Associate's college,2894.0,1970.0,Minnesota
+Fond du Lac Tribal and Community College,Cloquet,Public,Tribal college,1789.0,1987.0,Minnesota
+Hennepin Technical College,"Brooklyn Park , Eden Prairie",Public,Associate's college,4572.0,1972.0,Minnesota
+Inver Hills Community College,Inver Grove Heights,Public,Associate's college,3804.0,1970.0,Minnesota
+Lake Superior College,Duluth,Public,Associate's college,4074.0,1995.0,Minnesota
+Leech Lake Tribal College,Cass Lake,Public,Tribal college,209.0,1990.0,Minnesota
+Metropolitan State University,"St. Paul , Minneapolis",Public,Master's university,6660.0,1971.0,Minnesota
+Minneapolis College,Minneapolis,Public,Associate's college,6733.0,1996.0,Minnesota
+Minnesota North College,"Hibbing , Ely , Eveleth , Grand Rapids , International Falls , Virginia",Public,Associate's college,3174.0,1916.0,Minnesota
+Minnesota State College Southeast,"Winona , Red Wing",Public,Associate's college,2331.0,1949.0,Minnesota
+Minnesota State Community and Technical College,"Fergus Falls , Detroit Lakes , Moorhead , Wadena",Public,Associate's college,5645.0,1960.0,Minnesota
+"Minnesota State University, Mankato",Mankato,Public,Master's university,15271.0,1868.0,Minnesota
+Minnesota State University Moorhead,Moorhead,Public,Master's university,4386.0,1885.0,Minnesota
+Minnesota West Community and Technical College,"Granite Falls , Canby , Jackson , Pipestone , Worthington",Public,Associate's college,3695.0,1967.0,Minnesota
+Normandale Community College,Bloomington,Public,Associate's college,11026.0,1968.0,Minnesota
+North Hennepin Community College,Brooklyn Park,Public,Associate's college,5563.0,1966.0,Minnesota
+Northland Community & Technical College,"Thief River Falls , East Grand Forks",Public,Associate's college,2631.0,1949.0,Minnesota
+Northwest Technical College,Bemidji,Public,Associate's college,978.0,1965.0,Minnesota
+Pine Technical and Community College,Pine City,Public,Associate's college,1794.0,1965.0,Minnesota
+Ridgewater College,"Hutchinson , Willmar",Public,Associate's college,3148.0,1996.0,Minnesota
+Riverland Community College,"Albert Lea , Austin , Owatonna",Public,Associate's college,3959.0,1940.0,Minnesota
+Rochester Community and Technical College,Rochester,Public,Associate's college,5205.0,1915.0,Minnesota
+St. Cloud State University,St. Cloud,Public,Master's university,10732.0,1869.0,Minnesota
+St. Cloud Technical and Community College,St. Cloud,Public,Associate's college,4030.0,1948.0,Minnesota
+Saint Paul College,St. Paul,Public,Associate's college,5198.0,1910.0,Minnesota
+South Central College,"North Mankato , Faribault",Public,Associate's college,2731.0,1946.0,Minnesota
+Southwest Minnesota State University,Marshall,Public,Master's university,8214.0,1963.0,Minnesota
+University of Minnesota Crookston,Crookston,Public,Baccalaureate college,2612.0,1966.0,Minnesota
+University of Minnesota Duluth,Duluth,Public,Master's university,9253.0,1947.0,Minnesota
+University of Minnesota Morris,Morris,Public,Baccalaureate college,981.0,1960.0,Minnesota
+University of Minnesota Rochester,Rochester,Public,Associate's college,578.0,1966.0,Minnesota
+"University of Minnesota, Twin Cities","Minneapolis , St. Paul",Public,Research university,56666.0,1851.0,Minnesota
+White Earth Tribal and Community College,Mahnomen,Public,Tribal college,119.0,1997.0,Minnesota
+Winona State University,"Winona , Rochester",Public,Master's university,6045.0,1858.0,Minnesota
+Academy College,Bloomington,Private,Special-focus institution,56.0,1936.0,Minnesota
+Adler Graduate School,Minnetonka,Private,Special-focus institution,275.0,1967.0,Minnesota
+Augsburg University,Minneapolis,Private,Master's university,3249.0,1869.0,Minnesota
+Bethany Global University,Bloomington,Private,Special-focus institution,100.0,1948.0,Minnesota
+Bethany Lutheran College,Mankato,Private,Baccalaureate college,899.0,1927.0,Minnesota
+Bethel University,Arden Hills,Private,Master's university,3603.0,1871.0,Minnesota
+Bethlehem College & Seminary,Minneapolis,Private,Special-focus institution,200.0,2009.0,Minnesota
+Carleton College,Northfield,Private,Baccalaureate college,2128.0,1866.0,Minnesota
+College of Saint Benedict and Saint John's University,"St. Joseph , Collegeville",Private,Baccalaureate college,3001.0,1857.0,Minnesota
+College of St. Scholastica,Duluth,Private,Master's university,2930.0,1912.0,Minnesota
+Concordia College,Moorhead,Private,Baccalaureate college,1935.0,1891.0,Minnesota
+Concordia University,St. Paul,Private,Master's university,6003.0,1893.0,Minnesota
+Crown College,St. Bonifacius,Private,Baccalaureate college,1846.0,1916.0,Minnesota
+Dunwoody College of Technology,Minneapolis,Private,Associate's college,1537.0,1914.0,Minnesota
+Gustavus Adolphus College,St. Peter,Private,Baccalaureate college,1906.0,1862.0,Minnesota
+Hamline University,St. Paul,Private,Master's university,2565.0,1854.0,Minnesota
+Hazelden Graduate School of Addiction Studies,Center City,Private,Special-focus institution,192.0,1999.0,Minnesota
+Luther Seminary,St. Paul,Private,Special-focus institution,371.0,1869.0,Minnesota
+Macalester College,St. Paul,Private,Baccalaureate college,2138.0,1874.0,Minnesota
+Martin Luther College,New Ulm,Private,Baccalaureate college,878.0,1995.0,Minnesota
+Mayo Clinic College of Medicine and Science,Rochester,Private,Special-focus institution,1439.0,1915.0,Minnesota
+Minneapolis College of Art and Design,Minneapolis,Private,Special-focus institution,831.0,1886.0,Minnesota
+Mitchell Hamline School of Law,St. Paul,Private,Special-focus institution,1163.0,1900.0,Minnesota
+North Central University,Minneapolis,Private,Baccalaureate college,852.0,1930.0,Minnesota
+Northwestern Health Sciences University,Bloomington,Private,Special-focus institution,1101.0,1941.0,Minnesota
+Oak Hills Christian College,Bemidji,Private,Special-focus institution,95.0,1946.0,Minnesota
+St. Catherine University,"St. Paul , Minneapolis",Private,Master's university,3651.0,1905.0,Minnesota
+Saint Mary's University of Minnesota,"Winona , Minneapolis",Private,Master's university,4505.0,1912.0,Minnesota
+St. Olaf College,Northfield,Private,Baccalaureate college,3124.0,1874.0,Minnesota
+United Theological Seminary of the Twin Cities,St. Paul,Private,Special-focus institution,226.0,1960.0,Minnesota
+University of Northwestern – St. Paul,Roseville,Private,Baccalaureate college,3234.0,1902.0,Minnesota
+University of St. Thomas,"St. Paul , Minneapolis",Private,Doctoral/research university,9410.0,1885.0,Minnesota
+American Academy of Health and Wellness,Roseville,Private,Special-focus institution,29.0,1997.0,Minnesota
+Capella University,Minneapolis,Private,Doctoral/research university,47761.0,1993.0,Minnesota
+Rasmussen University,"Bloomington , Brooklyn Park , Eagan , Mankato , Moorhead , St. Cloud",Private,Associate's college,9416.0,1904.0,Minnesota
+Walden University,Minneapolis,Private,Doctoral/research university,49441.0,1970.0,Minnesota
+University of Wisconsin–Madison,Madison,Public,Doctoral Universities: Very High Research Activity (R1),51044.0,1848.0,Wisconsin
+University of Wisconsin–Milwaukee,Milwaukee,Public,Doctoral Universities: Very High Research Activity (R1),23301.0,1956.0,Wisconsin
+Marquette University,Milwaukee,Private,Doctoral Universities: High Research Activity (R2),11746.0,1881.0,Wisconsin
+Concordia University Wisconsin,Mequon,Private,Doctoral/Professional Universities (D/PU),5253.0,1881.0,Wisconsin
+Edgewood University,Madison,Private,Doctoral/Professional Universities (D/PU),2459.0,1927.0,Wisconsin
+University of Wisconsin–Oshkosh,Oshkosh,Public,Doctoral/Professional Universities (D/PU),12953.0,1871.0,Wisconsin
+Alverno College,Milwaukee,Private,Master's Colleges & Universities: Larger Programs (M1),1317.0,1887.0,Wisconsin
+Carroll University,Waukesha,Private,Master's Colleges & Universities: Larger Programs (M1),3138.0,1846.0,Wisconsin
+Carthage College,Kenosha,Private,Master's Colleges & Universities: Small Programs (M3),2844.0,1847.0,Wisconsin
+Herzing University,"Brookfield , Kenosha , Madison",Private,Master's Colleges & Universities: Larger Programs (M1),6187.0,1965.0,Wisconsin
+Lakeland University,Plymouth,Private,Master's Colleges & Universities: Larger Programs (M1),2813.0,1862.0,Wisconsin
+Maranatha Baptist University,Watertown,Private,Master's Colleges & Universities: Small Programs (M3),960.0,1968.0,Wisconsin
+Marian University,Fond du Lac,Private,Master's Colleges & Universities: Medium Programs (M2),1246.0,1936.0,Wisconsin
+Milwaukee School of Engineering,Milwaukee,Private,Master's Colleges & Universities: Medium Programs (M2),2953.0,1903.0,Wisconsin
+Mount Mary University,Milwaukee,Private,Master's Colleges & Universities: Larger Programs (M1),1182.0,1913.0,Wisconsin
+University of Wisconsin–Eau Claire,Eau Claire,Public,Master's Colleges & Universities: Medium Programs (M2),10049.0,1916.0,Wisconsin
+University of Wisconsin–Green Bay,Green Bay,Public,Master's Colleges & Universities: Medium Programs (M2),11174.0,1965.0,Wisconsin
+University of Wisconsin–La Crosse,La Crosse,Public,Master's Colleges & Universities: Larger Programs (M1),10446.0,1909.0,Wisconsin
+University of Wisconsin–Parkside,Kenosha,Public,Master's Colleges & Universities: Medium Programs (M2),4098.0,1968.0,Wisconsin
+University of Wisconsin–Platteville,Platteville,Public,Master's Colleges & Universities: Larger Programs (M1),6389.0,1866.0,Wisconsin
+University of Wisconsin–River Falls,River Falls,Public,Master's Colleges & Universities: Medium Programs (M2),5243.0,1875.0,Wisconsin
+University of Wisconsin–Stevens Point,Stevens Point,Public,Master's Colleges & Universities: Medium Programs (M2),8233.0,1894.0,Wisconsin
+University of Wisconsin–Stout,Menomonie,Public,Master's Colleges & Universities: Larger Programs (M1),6926.0,1891.0,Wisconsin
+University of Wisconsin–Superior,Superior,Public,Master's Colleges & Universities: Medium Programs (M2),2833.0,1893.0,Wisconsin
+University of Wisconsin–Whitewater,Whitewater,Public,Master's Colleges & Universities: Larger Programs (M1),11746.0,1868.0,Wisconsin
+Viterbo University,La Crosse,Private,Master's Colleges & Universities: Larger Programs (M1),2094.0,1890.0,Wisconsin
+Beloit College,Beloit,Private,Baccalaureate colleges: Arts & Sciences Focus,1004.0,1846.0,Wisconsin
+Lawrence University,Appleton,Private,Baccalaureate colleges: Arts & Sciences Focus,1417.0,1847.0,Wisconsin
+Ottawa University–Milwaukee,Brookfield,Private,Baccalaureate colleges: Diverse Fields,116.0,1865.0,Wisconsin
+Ripon College,Ripon,Private,Baccalaureate colleges: Arts & Sciences Focus,709.0,1851.0,Wisconsin
+St. Norbert College,De Pere,Private,Baccalaureate colleges: Arts & Sciences Focus,2032.0,1898.0,Wisconsin
+Wisconsin Lutheran College,Milwaukee,Private,Baccalaureate colleges: Diverse Fields,1027.0,1973.0,Wisconsin
+Bryant & Stratton College,Wauwatosa & Racine,Private,Baccalaureate/associate's college,1037.0,1854.0,Wisconsin
+Rasmussen University–Green Bay,Wausau,Private,Baccalaureate/associate's college,55.0,1900.0,Wisconsin
+Blackhawk Technical College,Janesville,Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,2811.0,1968.0,Wisconsin
+Chippewa Valley Technical College,Eau Claire,Public,Associate's Colleges: High Career & Technical-High Nontraditional,8330.0,1912.0,Wisconsin
+Fox Valley Technical College,Appleton,Public,Associate's Colleges: High Career & Technical-High Nontraditional,10670.0,1967.0,Wisconsin
+Gateway Technical College,Kenosha,Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,10100.0,1972.0,Wisconsin
+Lakeshore Technical College,Cleveland,Public,Associate's Colleges: High Career & Technical-High Nontraditional,3303.0,1967.0,Wisconsin
+Madison Area Technical College,Madison,Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,13641.0,1912.0,Wisconsin
+Mid-State Technical College,"Wisconsin Rapids , Stevens Point",Public,Associate's Colleges: High Career & Technical-High Nontraditional,3144.0,1911.0,Wisconsin
+Milwaukee Area Technical College,Milwaukee,Public,Associate's Colleges: High Career & Technical-High Traditional,13792.0,1912.0,Wisconsin
+Moraine Park Technical College,Fond du Lac,Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,4171.0,1912.0,Wisconsin
+Nicolet Area Technical College,Rhinelander,Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,1384.0,1967.0,Wisconsin
+Northcentral Technical College,Wausau,Public,Associate's Colleges: High Career & Technical-High Nontraditional,6746.0,1912.0,Wisconsin
+Northeast Wisconsin Technical College,Green Bay,Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,11826.0,1912.0,Wisconsin
+Northwood Technical College,Shell Lake,Public,Associate's Colleges: High Career & Technical-High Nontraditional,2940.0,1972.0,Wisconsin
+Southwest Wisconsin Technical College,Fennimore,Public,Associate's Colleges: High Career & Technical-High Nontraditional,2849.0,1967.0,Wisconsin
+Waukesha County Technical College,Pewaukee,Public,Associate's Colleges: High Career & Technical-High Nontraditional,8367.0,1923.0,Wisconsin
+Western Technical College,La Crosse,Public,Associate's Colleges: High Career & Technical-High Traditional,3625.0,1912.0,Wisconsin
+Bellin College,Green Bay,Private,Special focus institution: Other Health Professions,927.0,1909.0,Wisconsin
+Medical College of Wisconsin,Milwaukee,Private,Special focus institution: Research,1677.0,1893.0,Wisconsin
+Midwest College of Oriental Medicine-Racine,Racine,Private,Special focus institution: Other Health Professions,37.0,1979.0,Wisconsin
+Milwaukee Institute of Art & Design,Milwaukee,Private,"Special focus institution: Arts, Music & Design",838.0,1974.0,Wisconsin
+Nashotah House,Nashotah,Private,Special focus institution: Faith-Related,143.0,1842.0,Wisconsin
+Sacred Heart School of Theology,Franklin,Private,Special focus institution: Faith-Related,128.0,1932.0,Wisconsin
+Wisconsin Lutheran Seminary,Mequon,Private,Special-focus institution,186.0,1863.0,Wisconsin
+Wisconsin School of Professional Psychology,Milwaukee,Private,Special focus institution: Other Health Professions,78.0,1978.0,Wisconsin
+College of Menominee Nation,Keshena,Private,Tribal college,300.0,1993.0,Wisconsin
+Lac Courte Oreilles Ojibwe College,Hayward,Public,Tribal college,204.0,1982.0,Wisconsin
+Cheyney University,Thornbury Township,PASSHE,Baccalaureate colleges: arts & sciences focus,617.0,,Pennsylvania
+Commonwealth University-Bloomsburg,Bloomsburg,PASSHE,Master's colleges & universities: larger programs,7207.0,,Pennsylvania
+Commonwealth University-Lock Haven,Lock Haven,PASSHE,Master's colleges & universities: medium programs,2524.0,,Pennsylvania
+Commonwealth University-Mansfield,Mansfield,PASSHE,Baccalaureate colleges: diverse fields,1098.0,,Pennsylvania
+East Stroudsburg University,East Stroudsburg,PASSHE,Master's colleges & universities: larger programs,5633.0,,Pennsylvania
+Indiana University of Pennsylvania,Indiana borough,PASSHE,Doctoral universities: high research activity,9073.0,,Pennsylvania
+Kutztown University,Maxatawny Township,PASSHE,Master's colleges & universities: larger programs,7467.0,,Pennsylvania
+Lincoln University,Lower Oxford Township,Commonwealth System of Higher Education,Master's colleges & universities: larger programs,1670.0,,Pennsylvania
+Millersville University,Millersville,PASSHE,Master's colleges & universities: larger programs,6975.0,,Pennsylvania
+Pennsylvania State University,State College,Commonwealth System of Higher Education,Doctoral universities: R1: very high research activity,50737.0,,Pennsylvania
+Penn State Abington,Abington Township,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,2885.0,,Pennsylvania
+Penn State Altoona,Altoona,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,2371.0,,Pennsylvania
+Penn State Beaver,Center Township,Pennsylvania State University Commonwealth Campuses,Baccalaureate university (with a single Master's program available),482.0,,Pennsylvania
+Penn State Berks,Spring Township,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,1884.0,,Pennsylvania
+Penn State Brandywine,Middletown Township,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,1236.0,,Pennsylvania
+Penn State DuBois,DuBois city,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,350.0,,Pennsylvania
+"Penn State Erie, The Behrend College",Harborcreek Township,Pennsylvania State University Commonwealth Campuses,Master's university,3336.0,,Pennsylvania
+"Penn State Fayette, The Eberly Campus",North Union Township,Pennsylvania State University Commonwealth Campuses,Associate's college (with five bachelor's degrees available),405.0,,Pennsylvania
+Penn State Great Valley School of Graduate Professional Studies,East Whiteland Township,Pennsylvania State University Commonwealth Campuses,Graduate school,212.0,,Pennsylvania
+Penn State Greater Allegheny,White Oak,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,352.0,,Pennsylvania
+Penn State Harrisburg,Lower Swatara Township,Pennsylvania State University Commonwealth Campuses,Doctoral university,4478.0,,Pennsylvania
+Penn State Hazleton,Sugarloaf Township,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,502.0,,Pennsylvania
+Penn State Lehigh Valley,Upper Saucon Township,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,867.0,,Pennsylvania
+Penn State Mont Alto,Mont Alto,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,582.0,,Pennsylvania
+Penn State New Kensington,New Kensington,Pennsylvania State University Commonwealth Campuses,Baccalaureate university (with a single Master's program available),421.0,,Pennsylvania
+Penn State Schuylkill,North Manheim Township,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,624.0,,Pennsylvania
+Penn State Scranton,Dunmore borough,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,800.0,,Pennsylvania
+Penn State Shenango,Sharon,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,265.0,,Pennsylvania
+Penn State Wilkes-Barre,Dallas,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,315.0,,Pennsylvania
+Penn State World Campus,State College,Commonwealth System of Higher Education,Online university,13774.0,,Pennsylvania
+Penn State York,York,Pennsylvania State University Commonwealth Campuses,Baccalaureate university,677.0,,Pennsylvania
+Pennsylvania College of Technology,Williamsport,Pennsylvania State University Commonwealth campuses,Baccalaureate/Associate's colleges: Mixed Baccalaureate/Associate's,4575.0,,Pennsylvania
+PennWest California,California,PASSHE,Master's colleges & universities: larger programs,2493.0,,Pennsylvania
+PennWest Clarion,Clarion,PASSHE,Master's colleges & universities: larger programs,1547.0,,Pennsylvania
+PennWest Edinboro,Edinboro,PASSHE,Master's colleges & universities: larger programs,2060.0,,Pennsylvania
+Shippensburg University,Shippensburg Township,PASSHE,Master's colleges & universities: larger programs,5161.0,,Pennsylvania
+Slippery Rock University,Slippery Rock,PASSHE,Master's colleges & universities: larger programs,8376.0,,Pennsylvania
+Temple University,Philadelphia and Upper Dublin Township,Commonwealth System of Higher Education,Doctoral universities: R1: very high research activity,29640.0,,Pennsylvania
+University of Pittsburgh,Pittsburgh,Commonwealth System of Higher Education,Doctoral universities: R1: very high research activity,35724.0,,Pennsylvania
+University of Pittsburgh at Bradford,Bradford Township,Commonwealth System of Higher Education,Baccalaureate colleges: diverse fields,1009.0,,Pennsylvania
+University of Pittsburgh at Greensburg,Hempfield Township,Commonwealth System of Higher Education,Baccalaureate colleges: arts & sciences focus,1321.0,,Pennsylvania
+University of Pittsburgh at Johnstown,Richland Township,Commonwealth System of Higher Education,Baccalaureate colleges: diverse fields,1813.0,,Pennsylvania
+West Chester University,"West Chester , Philadelphia",PASSHE,Doctoral universities: high research activity,17171.0,,Pennsylvania
+Bucks County Community College,"Newtown Township , Bristol Township , East Rockhill Township",Public,Associate's Colleges: High Transfer-Mixed Traditional/Nontraditional,6232.0,,Pennsylvania
+Butler County Community College,Butler Township,Public,Associate's Colleges: Mixed Transfer/Career & Technical-High Traditional,2317.0,,Pennsylvania
+Community College of Allegheny County,"Pittsburgh city , Monroeville , McCandless Township , West Mifflin",Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,10609.0,,Pennsylvania
+Community College of Beaver County,Center Township,Public,Associate's Colleges: High Career & Technical-High Traditional,1936.0,,Pennsylvania
+Community College of Philadelphia,Philadelphia,Public,Associate's Colleges: High Transfer-High Traditional,12926.0,,Pennsylvania
+Delaware County Community College,Marple Township & East Brandywine Township,Public,Associate's Colleges: Mixed Transfer/Career & Technical-High Traditional,7402.0,,Pennsylvania
+Harrisburg Area Community College,"Harrisburg city , East Lampeter Township , Manchester Township , Cumberland Township , Lebanon city",Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,12585.0,,Pennsylvania
+Lehigh Carbon Community College,"North Whitehall Township , Allentown city , Tamaqua , Hanover Township",Public,Associate's Colleges: Mixed Transfer/Career & Technical-Mixed Traditional/Nontraditional,6221.0,,Pennsylvania
+Luzerne County Community College,"Nanticoke , Berwick , Hazleton , Pittston city , Scranton city , Shamokin city , Watsontown borough , Wilkes-Barre city",Public,Associate's Colleges: High Career & Technical-Mixed Traditional/Nontraditional,4460.0,,Pennsylvania
+Montgomery County Community College,"Whitpain Township , Pottstown borough",Public,Associate's Colleges: Mixed Transfer/Career & Technical-Mixed Traditional/Nontraditional,9278.0,,Pennsylvania
+Northampton County Area Community College,"Bethlehem Township , Pocono Township",Public,Associate's Colleges: Mixed Transfer/Career & Technical-High Traditional,8810.0,,Pennsylvania
+Pennsylvania Highlands Community College,Richland Township,Public,Associate's Colleges: Mixed Transfer/Career & Technical-High Nontraditional,2501.0,,Pennsylvania
+Reading Area Community College,Reading city,Public,Associate's Colleges: Mixed Transfer/Career & Technical-Mixed Traditional/Nontraditional,5369.0,,Pennsylvania
+Thaddeus Stevens College of Technology,Lancaster city,Public,Associate's Colleges: High Career & Technical-High Traditional,1470.0,,Pennsylvania
+University of Pittsburgh at Titusville educational and training hub,Titusville city,University of Pittsburgh campus,Associate's Colleges: High Career & Technical-High Traditional,36.0,,Pennsylvania
+Westmoreland County Community College,Hempfield Township,Public,Associate's Colleges: High Career & Technical-High Nontraditional,3990.0,,Pennsylvania
+Albright College,Reading city,United Methodist Church,Baccalaureate Colleges: Arts & Sciences Focus,1380.0,,Pennsylvania
+Allegheny College,Meadville,United Methodist Church,Baccalaureate Colleges: Arts & Sciences Focus,1171.0,,Pennsylvania
+Alvernia University,Reading,Catholic Church ( Franciscans ),Doctoral/Professional Universities,2796.0,,Pennsylvania
+Arcadia University,Cheltenham Township,Presbyterian Church (USA),Master's Colleges & Universities: Larger Programs,3404.0,,Pennsylvania
+Bryn Athyn College,Bryn Athyn borough,General Church of the New Jerusalem,Baccalaureate Colleges: Arts & Sciences Focus,255.0,,Pennsylvania
+Bryn Mawr College,Lower Merion Township,Private,Baccalaureate Colleges: Arts & Sciences Focus,1679.0,,Pennsylvania
+Bucknell University,East Buffalo township,Private,Baccalaureate Colleges: Arts & Sciences Focus,3969.0,,Pennsylvania
+Cairn University,Langhorne Manor borough,Nondenominational Christianity,Master's Colleges & Universities: Medium Programs,1097.0,,Pennsylvania
+Carlow University,Pittsburgh city,Catholic Church ( Sisters of Mercy ),Master's Colleges & Universities: Larger Programs,2416.0,,Pennsylvania
+Carnegie Mellon University,Pittsburgh city,Private,Doctoral Universities: Very High Research Activity,15888.0,,Pennsylvania
+Cedar Crest College,Allentown city,Private,Master's Colleges & Universities: Small Programs,1290.0,,Pennsylvania
+Central Penn College,East Pennsboro township,Private,Baccalaureate Colleges: Diverse Fields,684.0,,Pennsylvania
+Chatham University,Pittsburgh city,Private,Doctoral/Professional Universities,2309.0,,Pennsylvania
+Chestnut Hill College,Philadelphia,Catholic Church ( Sisters of Saint Joseph ),Master's Colleges & Universities: Medium Programs,1288.0,,Pennsylvania
+Delaware Valley University,Doylestown township,Private,Master's Colleges & Universities: Small Programs,2199.0,,Pennsylvania
+DeSales University,Upper Saucon Township,Catholic Church ( Oblates of Saint Francis de Sales ),Doctoral/Professional Universities,2972.0,,Pennsylvania
+Dickinson College,Carlisle borough,Private,Baccalaureate Colleges: Arts & Sciences Focus,2314.0,,Pennsylvania
+Drexel University,Philadelphia,Private,Doctoral Universities: Very High Research Activity,21153.0,,Pennsylvania
+Duquesne University,Pittsburgh city,Catholic Church ( Congregation of the Holy Spirit ),Doctoral Universities: High Research Activity,8234.0,,Pennsylvania
+Eastern University,Radnor township,American Baptist Churches USA,Master's Colleges & Universities: Larger Programs,8727.0,,Pennsylvania
+Elizabethtown College,Elizabethtown borough,Church of the Brethren,Master's Colleges & Universities: Small Programs,2283.0,,Pennsylvania
+Franklin and Marshall College,Lancaster city,Private,Baccalaureate Colleges: Arts & Sciences Focus,1808.0,,Pennsylvania
+Gannon University,Erie city,Catholic Church,Doctoral/Professional Universities,4189.0,,Pennsylvania
+Geneva College,Beaver Falls city,Reformed Presbyterian Church of North America,Master's Colleges & Universities: Small Programs,1366.0,,Pennsylvania
+Gettysburg College,Gettysburg borough,Evangelical Lutheran Church in America,Baccalaureate Colleges: Arts & Sciences Focus,2812.0,,Pennsylvania
+Gratz College,Melrose Park,Jewish (nondenominational),Master's Colleges & Universities: Small Programs,449.0,,Pennsylvania
+Grove City College,Grove City borough,Presbyterian Church (USA),Baccalaureate Colleges: Diverse Fields,2383.0,,Pennsylvania
+Gwynedd Mercy University,Lower Gwynedd township,Catholic Church,Doctoral/Professional Universities,2017.0,,Pennsylvania
+Harcum College,Lower Merion township,Private,Associate's Colleges: High Career & Technical-High Traditional,908.0,,Pennsylvania
+Harrisburg University of Science and Technology,Harrisburg city,Private,Master's Colleges & Universities: Larger Programs,3650.0,,Pennsylvania
+Haverford College,Haverford township,Private,Baccalaureate Colleges: Arts & Sciences Focus,1431.0,,Pennsylvania
+Holy Family University,"Philadelphia , Newtown township",Catholic Church ( Sisters of the Holy Family of Nazareth ),Master's Colleges & Universities: Larger Programs,3225.0,,Pennsylvania
+Immaculata University,East Whiteland township,"Catholic Church ( Sisters, Servants of the Immaculate Heart of Mary )",Doctoral/Professional Universities,2512.0,,Pennsylvania
+Juniata College,Huntingdon borough,Church of the Brethren,Baccalaureate Colleges: Arts & Sciences Focus,1321.0,,Pennsylvania
+Keystone College,La Plume township,Private,Baccalaureate Colleges: Diverse Fields,952.0,,Pennsylvania
+King's College,Wilkes-Barre city,Catholic Church ( Congregation of Holy Cross ),Master's Colleges & Universities: Medium Programs,1939.0,,Pennsylvania
+La Roche University,McCandless township,Catholic Church ( Congregation of Divine Providence ),Master's Colleges & Universities: Small Programs,2153.0,,Pennsylvania
+La Salle University,Philadelphia,Catholic Church ( De La Salle Brothers ),Doctoral/Professional Universities,3153.0,,Pennsylvania
+Lackawanna College,"Scranton city , Hazleton city , New Milford township , Towanda township , Hawley borough , Sunbury city , Covington township",Private,"Comprehensive Associate's College, offers bachelor's degrees in certain majors",2211.0,,Pennsylvania
+Lafayette College,Easton city,Presbyterian Church (USA),"Baccalaureate Colleges: Arts & Sciences, Engineering Focus",2775.0,,Pennsylvania
+Lancaster Bible College,Manheim township,Nondenominational Christianity,Master's Colleges & Universities: Small Programs,2519.0,,Pennsylvania
+Lebanon Valley College,Annville township,United Methodist Church,Master's Colleges & Universities: Small Programs,2146.0,,Pennsylvania
+Lehigh University,Bethlehem city,Private,Doctoral Universities: High Research Activity,7692.0,,Pennsylvania
+Lycoming College,Williamsport city,United Methodist Church,Baccalaureate Colleges: Arts & Sciences Focus,1012.0,,Pennsylvania
+Manor College,Abington township,Catholic Church ( Order of Saint Basil the Great ),Baccalaureate/Associate's Colleges: Associate's Dominant,567.0,,Pennsylvania
+Marywood University,Dunmore borough,"Catholic Church ( Sisters, Servants of the Immaculate Heart of Mary )",Master's Colleges & Universities: Larger Programs,2530.0,,Pennsylvania
+Mercyhurst University,Erie city,Catholic Church ( Sisters of Mercy ),Master's Colleges & Universities: Medium Programs,2632.0,,Pennsylvania
+Messiah University,Upper Allen township,Christianity ( Interdenominationalism ),Master's Colleges & Universities: Larger Programs,3373.0,,Pennsylvania
+Misericordia University,Dallas township,Catholic Church ( Sisters of Mercy ),Doctoral/Professional Universities,2200.0,,Pennsylvania
+Moravian University,Bethlehem city,Moravian Church in North America,Master's Colleges & Universities: Small Programs,2745.0,,Pennsylvania
+Mount Aloysius College,Cresson township,Catholic Church ( Sisters of Mercy ),Baccalaureate Colleges: Diverse Fields,2955.0,,Pennsylvania
+Muhlenberg College,Allentown city,Evangelical Lutheran Church in America,Baccalaureate Colleges: Arts & Sciences Focus,1788.0,,Pennsylvania
+Neumann University,Aston township,Catholic Church ( Third Order of Saint Francis ),Master's Colleges & Universities: Medium Programs,2244.0,,Pennsylvania
+Point Park University,Pittsburgh city,Private,Doctoral/Professional Universities,3448.0,,Pennsylvania
+Robert Morris University,Moon township,Private,Doctoral/Professional Universities,5275.0,,Pennsylvania
+Rosemont College,Lower Merion township,Catholic Church ( Society of the Holy Child Jesus ),Master's Colleges & Universities: Medium Programs,781.0,,Pennsylvania
+Saint Francis University,Loretto borough,Catholic Church,Master's Colleges & Universities: Larger Programs,2963.0,,Pennsylvania
+Saint Joseph's University,Philadelphia and Lancaster,Catholic Church ( Society of Jesus ),Master's Colleges & Universities: Larger Programs,8598.0,,Pennsylvania
+Saint Vincent College,Latrobe,Catholic Church ( Benedictines ),Baccalaureate Colleges: Arts & Sciences Focus,1440.0,,Pennsylvania
+Seton Hill University,Greensburg city,Catholic Church ( Sisters of Charity of Seton Hill ),Master's Colleges & Universities: Medium Programs,1927.0,,Pennsylvania
+Susquehanna University,Selinsgrove borough,Evangelical Lutheran Church in America,Baccalaureate Colleges: Arts & Sciences Focus,2255.0,,Pennsylvania
+Swarthmore College,Swarthmore borough,Private,Baccalaureate Colleges: Arts & Sciences Focus,1623.0,,Pennsylvania
+Thiel College,Greenville borough,Evangelical Lutheran Church in America,Baccalaureate Colleges: Diverse Fields,950.0,,Pennsylvania
+Thomas Jefferson University,Philadelphia,Private,Doctoral Universities: High Research Activity,8238.0,,Pennsylvania
+University of Pennsylvania,Philadelphia,Private,Doctoral Universities: Very High Research Activity,29109.0,,Pennsylvania
+University of Scranton,Scranton city,Catholic Church ( Society of Jesus ),Master's Colleges & Universities: Larger Programs,4724.0,,Pennsylvania
+Ursinus College,Collegeville borough,Private,Baccalaureate Colleges: Arts & Sciences Focus,1502.0,,Pennsylvania
+Villanova University,Radnor township,Catholic Church ( Order of Saint Augustine ),Doctoral Universities: High Research Activity,10041.0,,Pennsylvania
+Washington & Jefferson College,Washington city,Private,Baccalaureate Colleges: Arts & Sciences Focus,1309.0,,Pennsylvania
+Waynesburg University,Waynesburg borough,Presbyterian Church (USA),Master's Colleges & Universities: Medium Programs,1231.0,,Pennsylvania
+Westminster College,New Wilmington borough,Presbyterian Church (USA),Baccalaureate Colleges: Arts & Sciences Focus,1191.0,,Pennsylvania
+Widener University,Chester city,Private,Doctoral/Professional Universities,5713.0,,Pennsylvania
+Wilkes University,Wilkes-Barre city,Private,Doctoral/Professional Universities,5381.0,,Pennsylvania
+Wilson College,Chambersburg borough,Presbyterian Church (USA),Master's Colleges & Universities: Medium Programs,1907.0,,Pennsylvania
+York College of Pennsylvania,Spring Garden township,Private,Master's Colleges & Universities: Small Programs,3825.0,,Pennsylvania
+Academy of Vocal Arts,Philadelphia,Private,unclassified,30.0,,Pennsylvania
+All-State Career School,Tinicum township and West Mifflin borough,Private,Special Focus Two-Year: Career schools,1296.0,,Pennsylvania
+The American College of Financial Services,Upper Merion township,Private,Special Focus Four-Year: Business & Management schools,5514.0,,Pennsylvania
+ASPIRA City College,Philadelphia,Private,unclassified,26.0,,Pennsylvania
+Berks Technical Institute,"Allentown , Lewisburg , Wyomissing",Private,Special Focus Two-Year: Technical Professions,967.0,,Pennsylvania
+Byzantine Catholic Seminary of Saints Cyril and Methodius,Pittsburgh city,Catholic Church ( Byzantine Catholic Metropolitan Church of Pittsburgh ),Special Focus Four-Year: Faith-Related institutions,24.0,,Pennsylvania
+Central Pennsylvania Institute of Science and Technology,Spring township,Public,Special Focus Two-Year: Technical Professions,171.0,,Pennsylvania
+Commonwealth Technical Institute,Upper Yoder township,Pennsylvania Department of Labor and Industry,Associate's Colleges: High Career & Technical-Mixed Traditional and Nontraditional,146.0,,Pennsylvania
+Curtis Institute of Music,Philadelphia,Private,"Special Focus Four-Year: Arts, Music & Design Schools",161.0,,Pennsylvania
+Douglas Education Center,Monessen city,Private,Special Focus Two-Year: Arts & Design,178.0,,Pennsylvania
+Erie Institute of Technology,Millcreek Township,Private,Special Focus Two-Year: Technical Professions,221.0,,Pennsylvania
+Fortis College,Forty Fort and Scranton,Private,Special Focus Two-Year: Health Professions,387.0,,Pennsylvania
+Geisinger Commonwealth School of Medicine,Scranton city,Private,Special Focus Four-Year: Medical schools and centers,665.0,,Pennsylvania
+Great Lakes Institute of Technology,Millcreek Township,Private,Special Focus Two-Year: Health Professions,335.0,,Pennsylvania
+Institute of Medical Careers,Penn Hills,Private,Special Focus Two-Year: Health Professions,845.0,,Pennsylvania
+International Institute for Restorative Practices,Bethlehem city,Private,Special Focus Four-Year: Other Special Focus institutions,110.0,,Pennsylvania
+JNA Institute of Culinary Arts,Philadelphia,Private,Special Focus Two-Year: Arts & Design,15.0,,Pennsylvania
+Johnson College,Scranton city,Private,Industrial-Oriented Technical School,678.0,,Pennsylvania
+Lake Erie College of Osteopathic Medicine,Erie city,Private,Special Focus Four-Year: Medical schools and centers,4133.0,,Pennsylvania
+Lancaster County Career and Technology Center,West Lampeter township,Public,Special Focus Two-Year: Other Fields,279.0,,Pennsylvania
+Lancaster Theological Seminary,Lancaster city,United Church of Christ,Special Focus Four-Year: Faith-Related institutions,66.0,,Pennsylvania
+Lansdale School of Business,Upper Gwynedd township,Private,Associate's Colleges: High Career & Technical-High Traditional,93.0,,Pennsylvania
+Laurel Technical Institute,"Uniontown , Hermitage , Export",Private,Associate's Colleges: High Career & Technical-High Traditional,683.0,,Pennsylvania
+Lincoln Tech,"Upper Macungie Township , Philadelphia",Private,Associate's Colleges: High Career & Technical-High Traditional,973.0,,Pennsylvania
+Missio Seminary,Philadelphia,Christianity ( Interdenominationalism ),Special Focus Four-Year: Faith-Related institutions,20.0,,Pennsylvania
+Moore College of Art and Design,Philadelphia city,Private,"Special Focus Four-Year: Arts, Music & Design Schools",549.0,,Pennsylvania
+New Castle School of Trades,Union township,Private,Associate's Colleges: High Career & Technical-High Traditional,700.0,,Pennsylvania
+Northern Pennsylvania Regional College,Warren city,Private,Associate's Colleges: High Transfer-High Nontraditional,136.0,,Pennsylvania
+Orleans Technical College,Philadelphia,Private,unclassified,340.0,,Pennsylvania
+Penn Commercial Business and Technical School,South Strabane township,Private,Associate's Colleges: High Career & Technical-High Nontraditional,265.0,,Pennsylvania
+Pennsylvania College of Art and Design,Lancaster city,Private,"Special Focus Four-Year: Arts, Music & Design schools",414.0,,Pennsylvania
+Pennsylvania Institute of Technology,Upper Providence township,Private,Special Focus Two-Year: Health Professions,810.0,,Pennsylvania
+Philadelphia College of Osteopathic Medicine,Philadelphia,Private,Special Focus Four-Year: Medical schools and centers,2901.0,,Pennsylvania
+PITC Institute,Wyncote,Private,Special Focus Two-Year: Health Professions,282.0,,Pennsylvania
+Pittsburgh Institute of Aeronautics,West Mifflin borough,Private,Special Focus Two-Year: Technical Professions,663.0,,Pennsylvania
+Pittsburgh Institute of Mortuary Science,Pittsburgh city,Private,Special Focus Two-Year: Arts & Design,374.0,,Pennsylvania
+Pittsburgh Theological Seminary,Pittsburgh city,Presbyterian Church (USA),Special Focus Four-Year: Faith-Related institutions,202.0,,Pennsylvania
+Reconstructionist Rabbinical College,Cheltenham township,Jewish ( Reconstructionist Judaism ),Special Focus Four-Year: Faith-Related institutions,46.0,,Pennsylvania
+Rosedale Technical College,Pittsburgh city,Private,Special Focus Two-Year: Technical Professions,475.0,,Pennsylvania
+Saint Charles Borromeo Seminary,Radnor township,Catholic Church ( Roman Catholic Archdiocese of Philadelphia ),Special Focus Four-Year: Faith-Related institutions,170.0,,Pennsylvania
+Saint Vincent Seminary,Latrobe,Catholic Church ( Benedictines ),Special Focus Four-Year: Faith-Related institutions,79.0,,Pennsylvania
+South Hills School of Business and Technology,State College borough and Altoona city,Private,Associate's Colleges: High Transfer-High Traditional,260.0,,Pennsylvania
+Strayer University,Philadelphia,Private,Satellite campus,1384.0,,Pennsylvania
+Talmudical Yeshiva of Philadelphia,Philadelphia,Jewish ( Haredi Judaism ),Special Focus Four-Year: Faith-Related institutions,112.0,,Pennsylvania
+Theological Seminary of the Reformed Episcopal Church,Blue Bell,Reformed Episcopal Church,Special Focus Four-Year: Faith-Related institutions,12.0,,Pennsylvania
+Trinity School for Ministry,Ambridge borough,Anglicanism,Special Focus Four-Year: Faith-Related institutions,169.0,,Pennsylvania
+United Lutheran Seminary,Gettysburg borough,Evangelical Lutheran Church in America,Special Focus Four-Year: Faith-Related institutions,254.0,,Pennsylvania
+Valley Forge Military College,Radnor township,Private,Associate's Colleges: High Transfer-High Traditional,97.0,,Pennsylvania
+Vet Tech Institute,Pittsburgh city,Private,Special Focus Two-Year: Health Professions,183.0,,Pennsylvania
+Westminster Theological Seminary,Cheltenham township,Calvinism or Presbyterianism (unaffiliated),Special Focus Four-Year: Faith-Related institutions,1183.0,,Pennsylvania
+Williamson College of the Trades,Middletown township,Private,Associate's Colleges: High Career & Technical-High Traditional,322.0,,Pennsylvania
+Won Institute of Graduate Studies,Cheltenham township,Buddhist ( Won Buddhism ),Special Focus Four-Year: Other Health Professions schools,118.0,,Pennsylvania
+Yeshivath Bais Moshe,Scranton city,Jewish ( Orthodox Judaism ),Special Focus Four-Year: Faith-Related institutions,34.0,,Pennsylvania
+YTI Career Institute,Logan township and Springettsbury township,Private,Special Focus Two-Year: Health Professions,674.0,,Pennsylvania
+Chicago State University,Chicago,,Master's,2238.0,1867.0,Illinois
+Eastern Illinois University,Charleston,,Master's,8505.0,1895.0,Illinois
+Governors State University,University Park,,Master's,4397.0,1969.0,Illinois
+Illinois State University,Normal,,Research University,21546.0,1857.0,Illinois
+University of Illinois Chicago,Chicago,,Research University,33906.0,1965.0,Illinois
+University of Illinois Springfield,Springfield,,Master's,4628.0,1969.0,Illinois
+University of Illinois Urbana-Champaign,"Urbana , Champaign",,Research University,59238.0,1867.0,Illinois
+Northeastern Illinois University,Chicago,,Master's,5734.0,1867.0,Illinois
+Northern Illinois University,DeKalb,,Research University,15414.0,1895.0,Illinois
+Southern Illinois University Carbondale,Carbondale,,Research University,11790.0,1869.0,Illinois
+Southern Illinois University Edwardsville,Edwardsville,,Doctoral/Professional University,11893.0,1957.0,Illinois
+Western Illinois University,Macomb,,Research University,6332.0,1899.0,Illinois
+Adler University,Chicago,,Special-focus,1631.0,1952.0,Illinois
+American Islamic College,Chicago,,Faith-related,29.0,1983.0,Illinois
+Augustana College,Rock Island,,Baccalaureate,2570.0,1860.0,Illinois
+Aurora University,Aurora,,Doctoral/Professional,5923.0,1893.0,Illinois
+Benedictine University,Lisle,,Master's,2917.0,1887.0,Illinois
+Bexley Hall Seabury Western Theologoical Seminary Federation,Chicago,,Faith-related,80.0,1824.0,Illinois
+Blackburn College,Carlinville,,Baccalaureate,513.0,1837.0,Illinois
+Blessing-Rieman College of Nursing and Health Sciences,Quincy,,Special-focus,193.0,1891.0,Illinois
+Bradley University,Peoria,,Doctoral/Professional,4777.0,1897.0,Illinois
+CAAN Academy of Nursing,Matteson,,Special-focus,96.0,2007.0,Illinois
+Catholic Theological Union,Chicago,,Faith-related,210.0,1968.0,Illinois
+Chicago Theological Seminary,Chicago,,Faith-related,215.0,1855.0,Illinois
+Columbia College Chicago,Chicago,,Master's,5570.0,1890.0,Illinois
+Concordia University Chicago,River Forest,,Doctoral/Professional,4770.0,1864.0,Illinois
+DePaul University,Chicago,,Research University,21210.0,1898.0,Illinois
+Dominican University,River Forest,,Master's,3803.0,1901.0,Illinois
+East–West University,Chicago,,Baccalaureate,468.0,1980.0,Illinois
+Elmhurst University,Elmhurst,,Master's,3997.0,1871.0,Illinois
+Erikson Institute,Chicago,,Master's,297.0,1966.0,Illinois
+Eureka College,Eureka,,Baccalaureate,527.0,1855.0,Illinois
+Garrett-Evangelical Theological Seminary,Evanston,,Faith-related,313.0,1853.0,Illinois
+Generations College,Chicago,,Two-year College,310.0,1904.0,Illinois
+Greenville University,Greenville,,Master's,1104.0,1892.0,Illinois
+Hebrew Theological College,Skokie,,Faith-related,182.0,1921.0,Illinois
+Illinois College,Jacksonville,,Baccalaureate,942.0,1829.0,Illinois
+Illinois College of Optometry,Chicago,,Special-focus,474.0,1872.0,Illinois
+Illinois Institute of Technology,Chicago,,Research University,8834.0,1890.0,Illinois
+Illinois Wesleyan University,Bloomington,,Baccalaureate,1582.0,1850.0,Illinois
+Institute for Clinical Social Work,Chicago,,Special-focus,121.0,1981.0,Illinois
+Judson University,"Elgin , Rockford",,Master's,960.0,1913.0,Illinois
+Knox College,Galesburg,,Baccalaureate,1136.0,1837.0,Illinois
+Lake Forest College,Lake Forest,,Baccalaureate,1837.0,1857.0,Illinois
+Lakeview College of Nursing,Danville,,Special-focus,66.0,1894.0,Illinois
+Lewis University,Romeoville,,Master's,7011.0,1932.0,Illinois
+Loyola University Chicago,Chicago,,Research University,17384.0,1870.0,Illinois
+Lutheran School of Theology at Chicago,Chicago,,Faith-related,101.0,1962.0,Illinois
+McCormick Theological Seminary,Chicago,,Faith-related,125.0,1829.0,Illinois
+McKendree University,Lebanon,,Master's,2392.0,1828.0,Illinois
+Meadville Lombard Theological School,Chicago,,Faith-related,62.0,1844.0,Illinois
+Methodist College,Peoria,,Special-focus,267.0,2008.0,Illinois
+Midwestern University,Downers Grove,,Graduate School,2567.0,1900.0,Illinois
+Millikin University,Decatur,,Baccalaureate,1586.0,1901.0,Illinois
+Monmouth College,Monmouth,,Baccalaureate,713.0,1853.0,Illinois
+Moody Bible Institute,Chicago,,Faith-related,2202.0,1886.0,Illinois
+Morrison Institute of Technology,Morrison,,Special-focus,59.0,1973.0,Illinois
+National Louis University,Chicago,,Doctoral/Professional,8915.0,1886.0,Illinois
+National University of Health Sciences,Lombard,,Special-focus,511.0,1906.0,Illinois
+North Central College,Naperville,,Master's,3003.0,1861.0,Illinois
+North Park University,Chicago,,Master's,2557.0,1891.0,Illinois
+Northern Seminary,Lisle,,Faith-related,315.0,1913.0,Illinois
+Northwestern University,Evanston,,Research University,23856.0,1851.0,Illinois
+Olivet Nazarene University,Bourbonnais,,Master's,3339.0,1907.0,Illinois
+Principia College,Elsah,,Baccalaureate,339.0,1912.0,Illinois
+Quincy University,Quincy,,Baccalaureate,1210.0,1860.0,Illinois
+Rockford University,Rockford,,Master's,1241.0,1847.0,Illinois
+Roosevelt University,"Chicago , Schaumburg",,Doctoral/Professional,4281.0,1945.0,Illinois
+Rosalind Franklin University of Medicine and Science,North Chicago,,Special-focus,2021.0,1912.0,Illinois
+Rush University,Chicago,,Special-focus,2769.0,1972.0,Illinois
+Saint Anthony College of Nursing,Rockford,,Special-focus,263.0,1915.0,Illinois
+Saint Francis Medical Center College of Nursing,Peoria,,Special-focus,605.0,1985.0,Illinois
+Saint Xavier University,Chicago,,Master's,3485.0,1846.0,Illinois
+School of the Art Institute of Chicago,Chicago,,Special-focus,3394.0,1866.0,Illinois
+Spertus Institute for Jewish Learning and Leadership,Chicago,,Faith-related,89.0,1924.0,Illinois
+St. John's College of Nursing,Springfield,,Special-focus,132.0,1886.0,Illinois
+Telshe Yeshiva,Chicago,,Faith-related,91.0,1960.0,Illinois
+The Chicago School,Chicago,,Special-focus,1100.0,1979.0,Illinois
+Toyota Technological Institute at Chicago,Chicago,,Special-focus,39.0,2003.0,Illinois
+Trinity College of Nursing and Health Sciences,Rock Island,,Special-focus,65.0,1898.0,Illinois
+Trinity International University,Bannockburn,,Doctoral/Professional,869.0,1897.0,Illinois
+University of Chicago,Chicago,,Research University,18566.0,1890.0,Illinois
+University of Saint Mary of the Lake,Mundelein,,Faith-related,200.0,1844.0,Illinois
+University of St. Francis,Joliet,,Doctoral/Professional,3074.0,1920.0,Illinois
+VanderCook College of Music,Chicago,,Special-focus,323.0,1909.0,Illinois
+Wheaton College,Wheaton,,Baccalaureate,2874.0,1860.0,Illinois
+Chamberlain University,Chicago,,,32944.0,1889.0,Illinois
+DeVry University,Downers Grove,,,31296.0,1931.0,Illinois
+Fox College,Tinley Park,,,200.0,1932.0,Illinois
+Lincoln Tech,Melrose Park,,,1539.0,1946.0,Illinois
+Midwest College of Oriental Medicine,Skokie,,,30.0,1979.0,Illinois
+Midwestern Career College,Chicago,,,887.0,2004.0,Illinois
+Pacific College of Health and Science,Chicago,,,245.0,1986.0,Illinois
+Rasmussen University,"Aurora , Rockford , Mokena and Tinley Park",,,1145.0,1900.0,Illinois
+Stautzenberger College-Rockford Career College,Rockford,,,682.0,1862.0,Illinois
+Taylor Business Institute,Chicago,,,115.0,1962.0,Illinois
+Worsham College of Mortuary Science,Wheeling,,,183.0,1911.0,Illinois
+Bismarck State College,Bismarck,Public,Baccalaureate/associate's college,4206.0,1939.0,North Dakota
+Cankdeska Cikana Community College,Fort Totten,Public,Tribal college,239.0,1974.0,North Dakota
+Dakota College at Bottineau,Bottineau,Public,Associate's college,1204.0,1906.0,North Dakota
+Dickinson State University,Dickinson,Public,Baccalaureate college,1410.0,1918.0,North Dakota
+Lake Region State College,Devils Lake,Public,Associate's college,1897.0,1941.0,North Dakota
+Mayville State University,Mayville,Public,Baccalaureate college,1134.0,1889.0,North Dakota
+Minot State University,Minot,Public,Master's university,2751.0,1913.0,North Dakota
+North Dakota State College of Science,Wahpeton,Public,Associate's college,3367.0,1903.0,North Dakota
+North Dakota State University,Fargo,Public,Research university,11952.0,1890.0,North Dakota
+Nueta Hidatsa Sahnish College,New Town,Public,Tribal college,233.0,1973.0,North Dakota
+Rasmussen University,Fargo,Private,Baccalaureate/associate's college,52.0,2006.0,North Dakota
+Sitting Bull College,Fort Yates,Public,Tribal college,309.0,1973.0,North Dakota
+Trinity Bible College,Ellendale,Private,Special-focus institution,275.0,1948.0,North Dakota
+Turtle Mountain College,Belcourt,Private,Tribal college,872.0,1972.0,North Dakota
+United Tribes Technical College,Bismarck,Private,Tribal college,576.0,1969.0,North Dakota
+University of Jamestown,Jamestown,Private,Master's university,1376.0,1883.0,North Dakota
+University of Mary,"Bismarck , Fargo , Williston , Watford City , Grand Forks AFB",Private,Doctoral university,3861.0,1959.0,North Dakota
+University of North Dakota,Grand Forks,Public,Research university,15019.0,1883.0,North Dakota
+Valley City State University,Valley City,Public,Baccalaureate college,1806.0,1890.0,North Dakota
+Williston State College,Williston,Public,Associate's college,934.0,1957.0,North Dakota
+Southern Utah University,Cedar City,Public,Master's university,15444.0,1897.0,Utah
+University of Utah,Salt Lake City,Public,R1: Very high Doctoral / Research university,36894.0,1850.0,Utah
+Utah State University,Logan,Public,R1: Very high Doctoral / Research university,28904.0,1888.0,Utah
+Utah Tech University,St. George,Public,Baccalaureate college,13167.0,1911.0,Utah
+Utah Valley University,Orem,Public,Master's university,46807.0,1941.0,Utah
+Weber State University,Ogden,Public,Master's university,32701.0,1889.0,Utah
+Brigham Young University,Provo,Private,R1: very high research/doctoral production,35873.0,1875.0,Utah
+Eagle Gate College,Murray & Layton,Private,Baccalaureate / Associates Colleges,636.0,1979.0,Utah
+Ensign College,Salt Lake City,Private,Faith-related institution,7594.0,1886.0,Utah
+Fortis College,Millcreek,Private,Baccalaureate / Associates Colleges,383.0,2008.0,Utah
+Joyce University of Nursing and Health Sciences (formerly Ameritech College),Draper,Private,Baccalaureate / Associates Colleges,2073.0,1979.0,Utah
+Mount Liberty College,Murray,Private,unaccredited,20.0,2019.0,Utah
+Neumont College of Computer Science,Salt Lake City,Private,,476.0,2003.0,Utah
+Newlane University,Lehi,Private,Baccalaureate / Associates Colleges (Nationally Accredited),,2017.0,Utah
+Provo College,Provo,Private,Baccalaureate / Associates Colleges,669.0,1984.0,Utah
+Rocky Mountain University of Health Professions,Provo,Private,Doctoral university,1686.0,1998.0,Utah
+Rocky Vista University,Ivins,Private,Doctoral university,1039.0,2006.0,Utah
+Roseman University of Health Sciences,South Jordan,Private,Doctoral university,,1999.0,Utah
+Salt Lake Baptist College / Salt Lake Bible College,Taylorsville,Private,Faith-related institution,,,Utah
+Western Governors University,Millcreek,Private,Masters university,210208.0,1996.0,Utah
+Westminster University,Salt Lake City,Private,Masters university,1155.0,1875.0,Utah
+University of Iowa,Iowa City,Public,Research university,30779.0,1847.0,Iowa
+Iowa State University,Ames,Public,Research university,30380.0,1858.0,Iowa
+University of Northern Iowa,Cedar Falls,Public,Master's university,9278.0,1876.0,Iowa
+Des Moines Area Community College,Ankeny,Public,Associate's college,23697.0,1966.0,Iowa
+Eastern Iowa Community Colleges,Davenport,Public,Associate's college,7426.0,1965.0,Iowa
+Ellsworth Community College,Iowa Falls,Public,Associate's college,685.0,1890.0,Iowa
+Hawkeye Community College,Waterloo,Public,Associate's college,5120.0,1966.0,Iowa
+Indian Hills Community College,Ottumwa,Public,Associate's college,3184.0,1969.0,Iowa
+Iowa Central Community College,Fort Dodge,Public,Associate's college,4949.0,1966.0,Iowa
+Iowa Lakes Community College,Estherville,Public,Associate's college,1945.0,1967.0,Iowa
+Iowa Western Community College,Council Bluffs,Public,Associate's college,5540.0,1966.0,Iowa
+Kirkwood Community College,Cedar Rapids,Public,Associate's college,12763.0,1966.0,Iowa
+Marshalltown Community College,Marshalltown,Public,Associate's college,1857.0,1927.0,Iowa
+North Iowa Area Community College,Mason City,Public,Associate's college,2662.0,1918.0,Iowa
+Northeast Iowa Community College,Calmar,Public,Associate's college,4808.0,1967.0,Iowa
+Northwest Iowa Community College,Sheldon,Public,Associate's college,1907.0,1966.0,Iowa
+Southeastern Community College,West Burlington,Public,Associate's college,3028.0,1967.0,Iowa
+Southwestern Community College,Creston,Public,Associate's college,1566.0,1966.0,Iowa
+Western Iowa Tech Community College,Sioux City,Public,Associate's college,5482.0,1966.0,Iowa
+Allen College,Waterloo,Private,Special-focus institution,483.0,1925.0,Iowa
+Briar Cliff University,Sioux City,Private,Baccalaureate college,947.0,1930.0,Iowa
+Buena Vista University,Storm Lake,Private,Baccalaureate college,1890.0,1891.0,Iowa
+Central College,Pella,Private,Baccalaureate college,1084.0,1853.0,Iowa
+Clarke University,Dubuque,Private,Baccalaureate college,962.0,1843.0,Iowa
+Coe College,Cedar Rapids,Private,Baccalaureate college,1195.0,1851.0,Iowa
+Cornell College,Mount Vernon,Private,Baccalaureate college,1094.0,1853.0,Iowa
+Des Moines University,Des Moines,Private,Special-focus institution,1534.0,1898.0,Iowa
+Divine Word College,Epworth,Private,Special-focus institution,64.0,1931.0,Iowa
+Dordt University,Sioux Center,Private,Baccalaureate college,1952.0,1955.0,Iowa
+Drake University,Des Moines,Private,Master's university,4345.0,1881.0,Iowa
+Emmaus University,Dubuque,Private,Special-focus institution,234.0,1941.0,Iowa
+Faith Baptist Bible College and Theological Seminary,Ankeny,Private,Special-focus institution,611.0,1921.0,Iowa
+Graceland University,Lamoni,Private,Master's university,1102.0,1895.0,Iowa
+Grand View University,Des Moines,Private,Master's university,1856.0,1896.0,Iowa
+Grinnell College,Grinnell,Private,Baccalaureate college,1788.0,1846.0,Iowa
+Loras College,Dubuque,Private,Baccalaureate college,1189.0,1839.0,Iowa
+Luther College,Decorah,Private,Baccalaureate college,1384.0,1861.0,Iowa
+Maharishi International University,Fairfield,Private,Master's university,2592.0,1971.0,Iowa
+Mercy College of Health Sciences,Des Moines,Private,Special-focus institution,869.0,1899.0,Iowa
+Morningside University,Sioux City,Private,Baccalaureate college,2056.0,1894.0,Iowa
+Mount Mercy University,Cedar Rapids,Private,Baccalaureate college,1417.0,1928.0,Iowa
+Northwestern College,Orange City,Private,Baccalaureate college,1705.0,1882.0,Iowa
+Palmer College of Chiropractic,Davenport,Private,Special-focus institution,2161.0,1897.0,Iowa
+Simpson College,Indianola,Private,Baccalaureate college,1251.0,1860.0,Iowa
+St. Ambrose University,Davenport,Private,Master's university,2498.0,1882.0,Iowa
+St. Luke's College,Sioux City,Private,Special-focus institution,176.0,1966.0,Iowa
+University of Dubuque,Dubuque,Private,Master's university,1757.0,1852.0,Iowa
+Upper Iowa University,Fayette,Private,Master's university,3941.0,1857.0,Iowa
+Wartburg College,Waverly,Private,Baccalaureate college,1483.0,1852.0,Iowa
+Wartburg Theological Seminary,Dubuque,Private,Special-focus institution,161.0,1854.0,Iowa
+William Penn University,Oskaloosa,Private,Baccalaureate college,1425.0,1873.0,Iowa
+Waldorf University,Forest City,Private,Baccalaureate college,2225.0,1903.0,Iowa
+Albertus Magnus College,New Haven,Private,Masters university,1239.0,1925.0,Connecticut
+Central Connecticut State University,New Britain,Public,Masters university,9997.0,1849.0,Connecticut
+Charter Oak State College,New Britain,Public,Baccalaureate college,2012.0,1973.0,Connecticut
+Connecticut College,New London,Private,Baccalaureate college,1990.0,1911.0,Connecticut
+Connecticut State Community College,Various,Public,Associates college,36315.0,2023.0,Connecticut
+Eastern Connecticut State University,Willimantic,Public,Masters university,4355.0,1889.0,Connecticut
+Fairfield University,Fairfield,Private,Masters university,6864.0,1942.0,Connecticut
+Goodwin University,East Hartford,Private,Baccalaureate/associate's college,2970.0,1962.0,Connecticut
+Hartford International University for Religion and Peace,Hartford,Private,Masters university,109.0,1833.0,Connecticut
+Holy Apostles College and Seminary,Cromwell,Private,Masters university,719.0,1956.0,Connecticut
+Mitchell College,New London,Private,Baccalaureate college,442.0,1938.0,Connecticut
+Post University,Waterbury,Private,Masters university,16178.0,1890.0,Connecticut
+Quinnipiac University,Hamden,Private,Doctoral university,9424.0,1929.0,Connecticut
+Sacred Heart University,Fairfield,Private,Doctoral university,11022.0,1963.0,Connecticut
+Southern Connecticut State University,New Haven,Public,Masters university,9377.0,1893.0,Connecticut
+Trinity College,Hartford,Private,Baccalaureate college,2238.0,1823.0,Connecticut
+United States Coast Guard Academy,New London,Public,Baccalaureate college,1108.0,1876.0,Connecticut
+University of Bridgeport,Bridgeport,Private,Doctoral university,3838.0,1927.0,Connecticut
+University of Connecticut,Storrs,Public,Doctoral university,33554.0,1881.0,Connecticut
+University of Hartford,West Hartford,Private,Doctoral university,6015.0,1877.0,Connecticut
+University of New Haven,West Haven,Private,Masters university,9229.0,1920.0,Connecticut
+University of Saint Joseph,West Hartford,Private,Masters university,1952.0,1932.0,Connecticut
+Wesleyan University,Middletown,Private,Baccalaureate college,4011.0,1831.0,Connecticut
+Western Connecticut State University,Danbury,Public,Masters university,4169.0,1903.0,Connecticut
+Yale University,New Haven,Private,Doctoral university,15564.0,1701.0,Connecticut
+University of Maine,"Orono , Portland , and Machias",Public,Research university,12029.0,1865.0,Maine
+Unity Environmental University,New Gloucester and Unity,Private,Masters university,7165.0,1965.0,Maine
+Southern Maine Community College,South Portland and Brunswick,Public,Associates college,7900.0,1946.0,Maine
+University of New England,Biddeford and Portland,Private,Research university,6573.0,1939.0,Maine
+University of Southern Maine,Gorham and Portland,Public,Masters university,7604.0,1878.0,Maine
+Central Maine Community College,Auburn,Public,Associates college,4754.0,1963.0,Maine
+Husson University,Bangor,Private,Doctoral university,3367.0,1898.0,Maine
+University of Maine at Augusta,Augusta,Public,Baccalaureate college,4412.0,1965.0,Maine
+Eastern Maine Community College,Bangor,Public,Associates college,2719.0,1966.0,Maine
+Kennebec Valley Community College,Fairfield,Public,Associates college,2489.0,1969.0,Maine
+Colby College,Waterville,Private,Baccalaureate college,2412.0,1813.0,Maine
+York County Community College,Wells,Public,Associates college,1875.0,1994.0,Maine
+Bowdoin College,Brunswick,Private,Baccalaureate college,1881.0,1794.0,Maine
+Bates College,Lewiston,Private,Baccalaureate college,1760.0,1855.0,Maine
+Thomas College,Waterville,Private,Masters university,1635.0,1894.0,Maine
+University of Maine at Farmington,Farmington,Public,Baccalaureate college,2100.0,1863.0,Maine
+University of Maine at Presque Isle,Presque Isle,Public,Baccalaureate college,2873.0,1903.0,Maine
+Saint Joseph's College of Maine,Standish,Private,Masters university,1454.0,1912.0,Maine
+Maine Maritime Academy,Castine,Public,Baccalaureate college,971.0,1941.0,Maine
+Northern Maine Community College,Presque Isle,Public,Associates college,843.0,1961.0,Maine
+Washington County Community College,Calais,Public,Associates college,805.0,1969.0,Maine
+University of Maine at Fort Kent,Fort Kent,Public,Baccalaureate college,1562.0,1878.0,Maine
+Maine College of Art & Design,Portland,Private,Special-focus institution,475.0,1882.0,Maine
+Beal University,Bangor,Private,Associates college,504.0,1891.0,Maine
+College of the Atlantic,Bar Harbor,Private,Baccalaureate college,358.0,1969.0,Maine
+Maine College of Health Professions,Lewiston,Private,Special-focus institution,239.0,1891.0,Maine
+Institute for Doctoral Studies in the Visual Arts,Portland,Private,Masters college,99.0,2007.0,Maine
+The Landing School,Arundel,Private,Special-focus institution,32.0,1978.0,Maine
+Maine Media College,Rockport,Private,Special-focus institution,42.0,1973.0,Maine
+Great Bay Community College,Portsmouth,Public,Associates college,1462.0,1945.0,New Hampshire
+Lakes Region Community College,Laconia,Public,Associates college,735.0,1967.0,New Hampshire
+Manchester Community College,Manchester,Public,Associates college,2081.0,1945.0,New Hampshire
+Nashua Community College,Nashua,Public,Associates college,1342.0,1970.0,New Hampshire
+"NHTI, Concord's Community College",Concord,Public,Associates college,2657.0,1965.0,New Hampshire
+River Valley Community College,"Claremont , Keene and Lebanon",Public,Associates college,677.0,1968.0,New Hampshire
+White Mountains Community College,Berlin and Littleton,Public,Associates college,577.0,1966.0,New Hampshire
+Keene State College,Keene,Public,Master's university,2848.0,1909.0,New Hampshire
+Plymouth State University,Plymouth,Public,Master's university,3707.0,1871.0,New Hampshire
+University of New Hampshire,Durham,Public,Research university,13554.0,1866.0,New Hampshire
+University of New Hampshire at Manchester,Manchester,Public,Baccalaureate college,2141.0,1985.0,New Hampshire
+University of New Hampshire Franklin Pierce School of Law,Concord,Public,Law school,718.0,1973.0,New Hampshire
+Antioch University New England,Keene,Private,Master's university,992.0,1964.0,New Hampshire
+Colby-Sawyer College,New London,Private,Baccalaureate college,972.0,1837.0,New Hampshire
+Dartmouth College,Hanover,Private,Research university,6938.0,1769.0,New Hampshire
+Franklin Pierce University,Rindge,Private,Master's university,1654.0,1962.0,New Hampshire
+Hellenic American University,Nashua,Private,Not classified,324.0,2004.0,New Hampshire
+New England College,Henniker,Private,Master's university,3275.0,1946.0,New Hampshire
+Rivier University,Nashua,Private,Master's university,2777.0,1933.0,New Hampshire
+Saint Anselm College,Goffstown,Private,Baccalaureate college,2111.0,1889.0,New Hampshire
+St. Joseph School of Nursing,Nashua,Private,Special-focus two-year institution,95.0,1908.0,New Hampshire
+Southern New Hampshire University,Manchester,Private,Master's university,189531.0,1932.0,New Hampshire
+Thomas More College of Liberal Arts,Merrimack,Private,Baccalaureate college,97.0,1978.0,New Hampshire
+Upper Valley Educators Institute,Lebanon,Private,Not classified,51.0,2010.0,New Hampshire
+Brown University,Providence,Private,Doctoral university,11956.0,1764.0,Rhode Island
+Bryant University,Smithfield,Private,Master's university,3636.0,1863.0,Rhode Island
+College Unbound,Providence,Private,Special-focus institution,494.0,2009.0,Rhode Island
+Community College of Rhode Island,6 locations,Public,Associate's college,12275.0,1964.0,Rhode Island
+Johnson & Wales University,Providence,Private,Master's university,7152.0,1914.0,Rhode Island
+Naval War College,Newport,Public,Master's university,2259.0,1884.0,Rhode Island
+New England Institute of Technology,East Greenwich,Private,Doctoral university,1922.0,1940.0,Rhode Island
+Providence College,Providence,Private,Master's university,4666.0,1917.0,Rhode Island
+Rhode Island College,Providence,Public,Master's university,6155.0,1854.0,Rhode Island
+Rhode Island School of Design,Providence,Private,School of art,2520.0,1877.0,Rhode Island
+Roger Williams University,Bristol,Private,Master's university,4834.0,1956.0,Rhode Island
+Salve Regina University,Newport,Private,Master's university,2791.0,1934.0,Rhode Island
+University of Rhode Island,Kingston,Public,Doctoral university,17210.0,1892.0,Rhode Island
+Bennington College,Bennington,Private,Baccalaureate college,927.0,1932.0,Vermont
+Champlain College,Burlington,Private,Master's university,3259.0,1878.0,Vermont
+Community College of Vermont,12 locations,Public,Associate's college,5028.0,1970.0,Vermont
+Landmark College,Putney,Private,Baccalaureate/associate's college,672.0,1984.0,Vermont
+Middlebury College,Middlebury,Private,Baccalaureate college,2803.0,1800.0,Vermont
+Norwich University,Northfield,Private,Master's university,3149.0,1819.0,Vermont
+Saint Michael's College,Colchester,Private,Baccalaureate college,1323.0,1904.0,Vermont
+School for International Training,Brattleboro,Private,Master's university,644.0,1965.0,Vermont
+University of Vermont,Burlington,Public,Research university,14476.0,1791.0,Vermont
+Vermont College of Fine Arts,"headquartered in Montpelier ; courses are online with residencies in Valencia, California",Private,Art school,190.0,1831.0,Vermont
+Vermont Law and Graduate School,South Royalton,Private,Law school,722.0,1972.0,Vermont
+Vermont State University,5 locations,Public,Master's university,4775.0,2023.0,Vermont
+Air University,Montgomery,Public,Master's university,,1946.0,Alabama
+Alabama A&M University,Normal,Public,Research university,7295.0,1875.0,Alabama
+Alabama College of Osteopathic Medicine,Dothan,Private,Medical school,778.0,2010.0,Alabama
+Alabama State University,Montgomery,Public,Research University,4081.0,1867.0,Alabama
+Amridge University,Montgomery,Private,Special-focus institution (Bible college),639.0,1967.0,Alabama
+Athens State University,Athens,Public,Baccalaureate college,2986.0,1822.0,Alabama
+Auburn University,Auburn,Public,Research university,34145.0,1856.0,Alabama
+Auburn University at Montgomery,Montgomery,Public,Master's university,5217.0,1967.0,Alabama
+Bevill State Community College,Sumiton,Public,Associate's college,4378.0,1963.0,Alabama
+Birmingham School of Law,Birmingham,Private,Law school,,1915.0,Alabama
+Bishop State Community College,Mobile,Public,Associate's college,4001.0,1927.0,Alabama
+Calhoun Community College,Tanner,Public,Associate's college,14641.0,1965.0,Alabama
+Central Alabama Community College,Alexander City,Public,Associate's college,2140.0,1989.0,Alabama
+Chattahoochee Valley Community College,Phenix City,Public,Associate's college,1705.0,1974.0,Alabama
+Coastal Alabama Community College,Bay Minette,Public,Associate's college,10023.0,1965.0,Alabama
+Columbia Southern University,Orange Beach,Private,Master's university,17763.0,1993.0,Alabama
+Community College of the Air Force,Montgomery,Public,Associate's college,,1979.0,Alabama
+Enterprise State Community College,Enterprise,Public,Associate's college,2699.0,1965.0,Alabama
+Faulkner University,Montgomery,Private,Baccalaureate college,3086.0,1942.0,Alabama
+Gadsden State Community College,Gadsden,Public,Associate's college,5071.0,1985.0,Alabama
+H. Councill Trenholm State Community College,Montgomery,Public,Associate's college,2046.0,1966.0,Alabama
+Heritage Christian University,Florence,Private,Special-focus institution (Bible college),178.0,1971.0,Alabama
+Highlands College,Birmingham,Private,Special-focus institution (Bible college),,2011.0,Alabama
+Huntingdon College,Montgomery,Private,Baccalaureate college,892.0,1854.0,Alabama
+Huntsville Bible College,Huntsville,Private,Special-focus institution (Bible college),98.0,1986.0,Alabama
+J.F. Drake State Community and Technical College,Huntsville,Public,Associate's college,1187.0,1961.0,Alabama
+J. F. Ingram State Technical College,Deatsville,Public,Associate's college,960.0,1965.0,Alabama
+Jacksonville State University,Jacksonville,Public,Master's university,9955.0,1883.0,Alabama
+Jefferson State Community College,Birmingham,Public,Associate's college,13082.0,1965.0,Alabama
+Lawson State Community College,Birmingham,Public,Associate's college,3453.0,1950.0,Alabama
+Lurleen B. Wallace Community College,Andalusia,Public,Associate's college,2062.0,1969.0,Alabama
+Marion Military Institute,Marion,Public,Associate's college,332.0,1842.0,Alabama
+Miles College,Fairfield,Private,Baccalaureate college,1180.0,1905.0,Alabama
+Miles Law School,Fairfield,Private,Law school,,1974.0,Alabama
+Northeast Alabama Community College,Rainsville,Public,Associate's college,3208.0,1963.0,Alabama
+Northwest–Shoals Community College,Muscle Shoals,Public,Associate's college,4665.0,1993.0,Alabama
+Oakwood University,Huntsville,Private,Baccalaureate college,1226.0,1896.0,Alabama
+Reid State Technical College,Evergreen,Public,Associate's college,641.0,1966.0,Alabama
+Samford University,Birmingham,Private,Master's university,6097.0,1841.0,Alabama
+Selma University,Selma,Private,Special-focus institution (Bible college),95.0,1878.0,Alabama
+Shelton State Community College,Tuscaloosa,Public,Associate's college,4601.0,1979.0,Alabama
+Snead State Community College,Boaz,Public,Associate's college,2917.0,1898.0,Alabama
+Southern Union State Community College,Wadley,Public,Associate's college,5063.0,1994.0,Alabama
+Spring Hill College,Mobile,Private,Master's university,919.0,1830.0,Alabama
+Stillman College,Tuscaloosa,Private,Baccalaureate college,731.0,1876.0,Alabama
+Talladega College,Talladega,Private,Baccalaureate college,760.0,1867.0,Alabama
+Troy University,Troy,Public,Master's university,13658.0,1887.0,Alabama
+Tuskegee University,Tuskegee,Private,Research University,3121.0,1881.0,Alabama
+United States Sports Academy,Daphne,Private,Special-focus institution,367.0,1972.0,Alabama
+University of Alabama,Tuscaloosa,Public,Research university,40846.0,1831.0,Alabama
+University of Alabama at Birmingham,Birmingham,Public,Research university,20905.0,1966.0,Alabama
+University of Alabama in Huntsville,Huntsville,Public,Research university,8564.0,1949.0,Alabama
+University of Mobile,Prichard,Private,Master's university,1545.0,1961.0,Alabama
+University of Montevallo,Montevallo,Public,Master's university,3088.0,1896.0,Alabama
+University of North Alabama,Florence,Public,Master's university,10204.0,1830.0,Alabama
+University of South Alabama,Mobile,Public,Research university,14003.0,1963.0,Alabama
+University of West Alabama,Livingston,Public,Master's university,6820.0,1835.0,Alabama
+Wallace Community College,Dothan,Public,Associate's college,4044.0,1949.0,Alabama
+Wallace Community College Selma,Selma,Public,Associate's college,1925.0,1963.0,Alabama
+Wallace State Community College,Hanceville,Public,Associate's college,6424.0,1966.0,Alabama
+Arkansas Baptist College,Little Rock,Private,Baccalaureate college,342.0,1884.0,Arkansas
+Arkansas Colleges of Health Education,Fort Smith,Private,Medical School,870.0,2014.0,Arkansas
+Arkansas Northeastern College,Blytheville,Public,Associate's college,1461.0,1975.0,Arkansas
+Arkansas State University,Jonesboro,Public,Research university,15726.0,1909.0,Arkansas
+Arkansas State University-Beebe,Beebe,Public,Associate's college,3277.0,1927.0,Arkansas
+Arkansas State University Mid-South,West Memphis,Public,Associate's college,1022.0,1992.0,Arkansas
+Arkansas State University–Mountain Home,Mountain Home,Public,Associate's college,1315.0,1995.0,Arkansas
+Arkansas State University-Newport,Newport,Public,Associate's college,1868.0,1976.0,Arkansas
+Arkansas State University Three Rivers,Malvern,Public,Associate's college,1983.0,1969.0,Arkansas
+Arkansas Tech University,Russellville,Public,Master's university,8746.0,1909.0,Arkansas
+Black River Technical College,Pocahontas,Public,Associate's college,1705.0,1978.0,Arkansas
+Central Baptist College,Conway,Private,Baccalaureate college,547.0,1952.0,Arkansas
+Cossatot Community College,De Queen,Public,Associate's college,1312.0,1975.0,Arkansas
+Crowley's Ridge College,Paragould,Private,Baccalaureate college,241.0,1964.0,Arkansas
+East Arkansas Community College,Forrest City,Public,Associate's college,1401.0,1974.0,Arkansas
+Ecclesia College,Springdale,Private,Special-focus institution (Bible college),111.0,1975.0,Arkansas
+Harding University,Searcy,Private,Master's university,4696.0,1924.0,Arkansas
+Henderson State University,Arkadelphia,Public,Master's university,2055.0,1890.0,Arkansas
+Hendrix College,Conway,Private,Baccalaureate college,1110.0,1876.0,Arkansas
+John Brown University,Siloam Springs,Private,Baccalaureate college,2350.0,1919.0,Arkansas
+Lyon College,Batesville,Private,Baccalaureate college,659.0,1872.0,Arkansas
+National Park College,Hot Springs,Public,Associate's college,1805.0,2003.0,Arkansas
+North Arkansas College,Harrison,Public,Associate's college,2089.0,1974.0,Arkansas
+Northwest Arkansas Community College,Bentonville,Public,Associate's college,8412.0,1989.0,Arkansas
+Ouachita Baptist University,Arkadelphia,Private,Baccalaureate college,1858.0,1886.0,Arkansas
+Ozarka College,Melbourne,Public,Associate's college,1069.0,1975.0,Arkansas
+Philander Smith University,Little Rock,Private,Baccalaureate college,780.0,1877.0,Arkansas
+Phillips Community College of the University of Arkansas,Helena-West Helena,Public,Associate's college,1199.0,1965.0,Arkansas
+Shorter College,North Little Rock,Private,Associate's college,287.0,1886.0,Arkansas
+South Arkansas College,El Dorado,Public,Associate's college,1207.0,1992.0,Arkansas
+Southeast Arkansas College,Pine Bluff,Public,Associate's college,916.0,1991.0,Arkansas
+Southern Arkansas University,Magnolia,Public,Master's university,4732.0,1909.0,Arkansas
+Southern Arkansas University Tech,Camden,Public,Associate's college,991.0,1967.0,Arkansas
+Strayer University,Little Rock,Private,Special focus institution,741.0,1892.0,Arkansas
+University of Arkansas,Fayetteville,Public,Research university,33610.0,1871.0,Arkansas
+University of Arkansas Community College at Batesville,Batesville,Public,Associate's college,1192.0,1991.0,Arkansas
+University of Arkansas Community College at Hope,Hope,Public,Associate's college,1305.0,1965.0,Arkansas
+University of Arkansas Community College at Morrilton,Morrilton,Public,Associate's college,2248.0,1961.0,Arkansas
+University of Arkansas Grantham,Online Campus,Public,Master's university,5646.0,1951.0,Arkansas
+University of Arkansas at Little Rock,Little Rock,Public,Research university,8216.0,1927.0,Arkansas
+University of Arkansas at Monticello,Monticello,Public,Master's university,2856.0,1909.0,Arkansas
+University of Arkansas at Pine Bluff,Pine Bluff,Public,Baccalaureate college,2005.0,1873.0,Arkansas
+University of Arkansas Rich Mountain,Mena,Public,Associate's college,786.0,1973.0,Arkansas
+University of Arkansas for Medical Sciences,Little Rock,Public,Medical school,3485.0,1879.0,Arkansas
+University of Arkansas–Fort Smith,Fort Smith,Public,Baccalaureate college,5496.0,1928.0,Arkansas
+University of Arkansas – Pulaski Technical College,North Little Rock,Public,Associate's college,4478.0,1945.0,Arkansas
+University of Central Arkansas,Conway,Public,Master's university,10112.0,1907.0,Arkansas
+University of the Ozarks,Clarksville,Private,Baccalaureate college,778.0,1834.0,Arkansas
+Williams Baptist University,Walnut Ridge,Private,Master's University,517.0,1941.0,Arkansas
+Arizona State University,Tempe,Public,Doctoral University,152812.0,1885.0,Arizona
+Northern Arizona University,Flagstaff,Public,Doctoral University,28467.0,1899.0,Arizona
+University of Arizona,Tucson,Public,Doctoral University,56365.0,1885.0,Arizona
+Grand Canyon University,Phoenix,Private,Doctoral University,113257.0,1949.0,Arizona
+Arizona Christian University,Glendale,Private,Baccalaureate College,1421.0,1960.0,Arizona
+Cummings Graduate Institute for Behavioral Health Studies,Phoenix,Private,Not classified,,2015.0,Arizona
+Embry-Riddle Aeronautical University,Prescott,Private,Baccalaureate College,3264.0,1978.0,Arizona
+Indigenous Bible College,Flagstaff,Private,Special Focus: Theological Studies,38.0,1958.0,Arizona
+International Baptist College and Seminary,Chandler,Private,Special Focus: Theological Studies,78.0,1981.0,Arizona
+Justice University,Chandler,Private,Not classified,124.0,2019.0,Arizona
+Midwestern University,Glendale,Private,Special Focus: Medical,3738.0,1900.0,Arizona
+Ottawa University,Surprise,Private,Baccalaureate College,912.0,1865.0,Arizona
+Pathways College,Phoenix,Private,Special Focus: Business,196.0,2015.0,Arizona
+Prescott College,Prescott,Private,Master's University,867.0,1966.0,Arizona
+Sonoran University of Health Sciences,Tempe,Private,Special Focus: Other Health,516.0,1993.0,Arizona
+The School of Architecture,Scottsdale,Private,Special Focus: Other,8.0,1932.0,Arizona
+American InterContinental University System,Chandler,Private,Special Focus: Business,11277.0,1970.0,Arizona
+Arizona College of Nursing,"Glendale , Phoenix , Tempe , and Tucson",Private,Special Focus: Health Professions,3396.0,1885.0,Arizona
+Arizona School of Acupuncture and Oriental Medicine,Tucson,Private,Special Focus: Other Health Professions,19.0,1995.0,Arizona
+Aspen University,Phoenix,Private,Special Focus: Nursing,3511.0,1987.0,Arizona
+Brookline College,"Phoenix , Tempe , and Tucson",Private,Special Focus: Health Professions,1239.0,1972.0,Arizona
+Bryan University,Tempe,Private,Baccalaureate College,2519.0,1940.0,Arizona
+Carrington College,"Mesa , Phoenix , and Tucson",Private,Special Focus: Health Professions,2125.0,1967.0,Arizona
+Chamberlain University,Phoenix,Private,Special Focus: Health Professions,693.0,1889.0,Arizona
+DeVry University,Phoenix,Private,Baccalaureate College,6.0,1931.0,Arizona
+Miller-Motte College - Arizona Automotive Institute,Glendale,Private,Special Focus: Business,689.0,1968.0,Arizona
+National Paralegal College (Crestpoint University),Phoenix,Private,Baccalaureate College,446.0,2003.0,Arizona
+Pima Medical Institute,"Mesa , Phoenix , and Tucson",Private,Special Focus: Applied and Career Studies,4467.0,1972.0,Arizona
+Refrigeration School Inc,Phoenix,Private,Special Focus: Applied and Career Studies,1417.0,1965.0,Arizona
+Sessions College for Professional Design,Tempe,Private,Special Focus: Art & Design,194.0,1997.0,Arizona
+Sonoran Desert Institute,Tempe,Private,Special Focus: Applied and Career Studies,5437.0,2000.0,Arizona
+Southwest Institute of Healing Arts,Tempe,Private,Special Focus: Other Health Professions,534.0,1992.0,Arizona
+Universal Technical Institute,Avondale,Private,Special Focus: Technical,2484.0,1965.0,Arizona
+University of Advancing Technology,Tempe,Private,Baccalaureate College,933.0,1983.0,Arizona
+University of Phoenix,Phoenix,Private,Doctoral University,111248.0,1976.0,Arizona
+Atlantic International University,Honolulu,Private,Unaccredited,,1998.0,Hawaii
+Brigham Young University–Hawaii,Laie,Private,Baccalaureate college,2906.0,1955.0,Hawaii
+Chaminade University of Honolulu,Honolulu,Private,Masters University,2709.0,1955.0,Hawaii
+Hawaii Pacific University,Honolulu,Private,Masters University,4921.0,1965.0,Hawaii
+Hawaiʻi Community College,Hilo,Public,Associates College,2289.0,1941.0,Hawaii
+Honolulu Community College,Honolulu,Public,Associates College,3342.0,1920.0,Hawaii
+Institute of Clinical Acupuncture and Oriental Medicine,Honolulu,Private,Special focus,61.0,1996.0,Hawaii
+Kapiʻolani Community College,Honolulu,Public,Associates College,5914.0,1946.0,Hawaii
+Kauaʻi Community College,Lihue,Public,Associates College,1335.0,1965.0,Hawaii
+Leeward Community College,Pearl City,Public,Associates College,6471.0,1968.0,Hawaii
+University of Hawaiʻi at Hilo,Hilo,Public,Doctoral University,2668.0,1947.0,Hawaii
+University of Hawaiʻi at Mānoa,Honolulu,Public,Doctoral University,20028.0,1907.0,Hawaii
+University of Hawaiʻi Maui College,Kahului,Public,Baccalaureate/Associate's College,2792.0,1931.0,Hawaii
+University of Hawaiʻi at West Oʻahu,Kapolei,Public,Baccalaureate college,2814.0,1976.0,Hawaii
+Windward Community College,Kaneohe,Public,Associates College,2765.0,1972.0,Hawaii
+Boise Bible College,Boise,Private,Special-focus institution,94.0,1945.0,Idaho
+Boise State University,Boise,Public,Doctoral/research university,27198.0,1932.0,Idaho
+Brigham Young University–Idaho,Rexburg,Private,Baccalaureate college,45585.0,1888.0,Idaho
+College of Idaho,Caldwell,Private,Baccalaureate college,1090.0,1891.0,Idaho
+Idaho College of Osteopathic Medicine,Meridian,Private,,632.0,2016.0,Idaho
+College of Southern Idaho,Twin Falls,Public,Associate's college,10176.0,1965.0,Idaho
+College of Western Idaho,Nampa,Public,Associate's college,11015.0,2007.0,Idaho
+College of Eastern Idaho,Idaho Falls,Public,Associate's college,3013.0,1969.0,Idaho
+Idaho State University,Pocatello,Public,Doctoral/research university,13061.0,1901.0,Idaho
+Lewis–Clark State College,Lewiston,Public,Baccalaureate college,3801.0,1893.0,Idaho
+New Saint Andrews College,Moscow,Private,Baccalaureate college,413.0,1994.0,Idaho
+North Idaho College,Coeur d'Alene,Public,Associate's college,4585.0,1933.0,Idaho
+Northwest Nazarene University,Nampa,Private,Master's university,1635.0,1913.0,Idaho
+University of Idaho,Moscow,Public,Doctoral/research university,12286.0,1889.0,Idaho
+University of New Mexico,Albuquerque (Main) Gallup Health Sciences Rio Rancho Los Alamos Taos Los Lunas (Valencia),Public,Research university,26977.0,,New Mexico
+New Mexico State University,Las Cruces (Main) Alamogordo Doña Ana Grants,Public,Research university,24514.0,,New Mexico
+New Mexico Institute of Mining and Technology,Socorro (Main),Public,Research university,1622.0,,New Mexico
+University of the Southwest,Hobbs (Main),Private,Doctoral university,1130.0,,New Mexico
+New Mexico Highlands University,Las Vegas (Main) Farmington Rio Rancho Roswell Santa Fe,Public,Master's university,2704.0,,New Mexico
+Eastern New Mexico University,Portales (Main) Roswell Ruidoso,Public,Master's university,8580.0,,New Mexico
+Western New Mexico University,Silver City (Main) Deming Gallup Lordsburg (Hidalgo Learning Center) Truth or Consequences (Gardner Learning Center),Public,Master's university,3531.0,,New Mexico
+Institute of American Indian Arts,Santa Fe (Main),Tribal,Master's university,947.0,,New Mexico
+Navajo Technical University,Crownpoint (Main) Kirtland Instructional Site Zuni Instructional Site,Tribal ( Navajo Nation ),Master's university,1704.0,,New Mexico
+St. John's College,Santa Fe,Private,Master's university,467.0,,New Mexico
+Northern New Mexico College,Española (Main) El Rito,Public,Baccalaureate college,1425.0,,New Mexico
+Brookline College,Albuquerque,Private,Baccalaureate college,560.0,,New Mexico
+Central New Mexico Community College,Albuquerque (Main) Rio Rancho,Public,Associate's college,19342.0,,New Mexico
+Clovis Community College,Clovis (Main),Public,Associate's college,2342.0,,New Mexico
+Luna Community College,Las Vegas (Main) Mora Santa Rosa Springer,Public,Associate's college,743.0,,New Mexico
+Mesalands Community College,Tucumcari (Main),Public,Associate's college,563.0,,New Mexico
+New Mexico Junior College,Hobbs (Main),Public,Associate's college,2235.0,,New Mexico
+San Juan College,Farmington (Main) Aztec (East Campus) Kirtland (West Campus),Public,Associate's college,6452.0,,New Mexico
+Santa Fe Community College,Santa Fe (Main),Public,Associate's college,4469.0,,New Mexico
+Southeast New Mexico College,Carlsbad,Public,Associate's college,1431.0,,New Mexico
+Southwestern Indian Polytechnic Institute,Albuquerque (Main),Public,Associate's college,215.0,,New Mexico
+Carrington College,Albuquerque,Private,Associate's college,357.0,,New Mexico
+New Mexico Military Institute,Roswell (Main),Public,Military junior college,463.0,,New Mexico
+Southwestern College,Santa Fe (Main),Private,Special-focus institution,289.0,,New Mexico
+Pima Medical Institute,Albuquerque Rio Rancho (Albuquerque West),Private,Special-focus institution,562.0,,New Mexico
+Burrell College of Osteopathic Medicine,Las Cruces (Main),Private,Special-focus institution (Medical school),841.0,,New Mexico
+Casper College,Casper,Community,Associate's,3403.0,1944.0,Wyoming
+Central Wyoming College,Riverton,Community,Associate's,2205.0,1966.0,Wyoming
+Eastern Wyoming College,Torrington,Community,Associate's,1457.0,1948.0,Wyoming
+Gillette College,Gillette,Community,Associate's,,1969.0,Wyoming
+Laramie County Community College,Cheyenne,Community,Associate's,4193.0,1968.0,Wyoming
+Northwest College,Powell,Community,Associate's,1486.0,1946.0,Wyoming
+Sheridan College,Sheridan,Community,Associate's,3534.0,1948.0,Wyoming
+Western Wyoming Community College,Rock Springs,Community,Associate's,2653.0,1959.0,Wyoming
+University of Wyoming,Laramie,Public,Doctoral,10813.0,1886.0,Wyoming
+Wyoming Catholic College,Lander,Private,Baccalaureate,,2005.0,Wyoming
+Wyoming Technical Institute (WyoTech),Laramie,For-profit,Associate's,1335.0,1966.0,Wyoming
+Wind River Tribal College,Fort Washakie,Tribal,Associate's,,1997.0,Wyoming
+Augustana University,Sioux Falls,Private,Master's university,2390.0,1860.0,South Dakota
+Black Hills State University,Spearfish,Public,Master's university,3346.0,1883.0,South Dakota
+California InterContinental University,Sioux Falls,Private,Special-focus institution,623.0,1996.0,South Dakota
+Dakota State University,Madison,Public,Master's university,3774.0,1881.0,South Dakota
+Dakota Wesleyan University,Mitchell,Private,Baccalaureate college,892.0,1885.0,South Dakota
+Institute of Lutheran Theology,Brookings,Private,Special-focus institution,122.0,2009.0,South Dakota
+Kairos University,Sioux Falls,Private,Special-focus institution,1239.0,1858.0,South Dakota
+Lake Area Technical College,Watertown,Public,Associate's college,2312.0,1965.0,South Dakota
+Mitchell Technical College,Mitchell,Public,Associate's college,1186.0,1968.0,South Dakota
+Mount Marty University,Yankton,Private,Baccalaureate college,1284.0,1936.0,South Dakota
+National American University,Rapid City,Private,Special-focus institution,903.0,1941.0,South Dakota
+Northern State University,Aberdeen,Public,Baccalaureate college,3708.0,1901.0,South Dakota
+Oglala Lakota College,Kyle,Public,Tribal college,1188.0,1971.0,South Dakota
+Sinte Gleska University,Mission,Public,Tribal college,592.0,1970.0,South Dakota
+Sisseton Wahpeton College,Agency Village,Public,Tribal college,206.0,1979.0,South Dakota
+South Dakota School of Mines and Technology,Rapid City,Public,Special-focus institution,2576.0,1885.0,South Dakota
+South Dakota State University,Brookings,Public,Research university,12056.0,1881.0,South Dakota
+Southeast Technical College,Sioux Falls,Public,Associate's college,2659.0,1968.0,South Dakota
+University of Sioux Falls,Sioux Falls,Private,Baccalaureate college,1450.0,1883.0,South Dakota
+University of South Dakota,Vermillion,Public,Research university,10619.0,1862.0,South Dakota
+Western Dakota Technical College,Rapid City,Public,Associate's college,1164.0,1968.0,South Dakota
+Alcorn State University,Lorman,,Public,2995.0,1871.0,Mississippi
+Belhaven University,Jackson,,Private,4213.0,1883.0,Mississippi
+Blue Cliff College,Gulfport,,Private,200.0,1987.0,Mississippi
+Blue Mountain Christian University,Blue Mountain,,Private,968.0,1873.0,Mississippi
+Coahoma Community College,Clarksdale,,Public,1633.0,1949.0,Mississippi
+Copiah–Lincoln Community College,Wesson,,Public,2932.0,1928.0,Mississippi
+Delta State University,Cleveland,,Public,2654.0,1924.0,Mississippi
+East Central Community College,Decatur,,Public,2785.0,1928.0,Mississippi
+East Mississippi Community College,Scooba,,Public,3841.0,1927.0,Mississippi
+Hinds Community College,Raymond,,Public,8859.0,1917.0,Mississippi
+Holmes Community College,Goodman,,Public,5039.0,1911.0,Mississippi
+Itawamba Community College,Fulton,,Public,5139.0,1948.0,Mississippi
+Jackson State University,Jackson,,Public,6326.0,1877.0,Mississippi
+Jones College,Ellisville,,Public,4753.0,1911.0,Mississippi
+Meridian Community College,Meridian,,Public,2780.0,1937.0,Mississippi
+Millsaps College,Jackson,,Private,593.0,1890.0,Mississippi
+Mississippi College,Clinton,,Private,4164.0,1826.0,Mississippi
+Mississippi Delta Community College,Moorhead,,Public,1978.0,1927.0,Mississippi
+Mississippi Gulf Coast Community College,Perkinston,,Public,8694.0,1912.0,Mississippi
+Mississippi State University,Starkville,,Public,23150.0,1878.0,Mississippi
+Mississippi University for Women,Columbus,,Public,2193.0,1884.0,Mississippi
+Mississippi Valley State University,Itta Bena,,Public,2205.0,1950.0,Mississippi
+Northeast Mississippi Community College,Booneville,,Public,3442.0,1948.0,Mississippi
+Northwest Mississippi Community College,Senatobia,,Public,7867.0,1927.0,Mississippi
+Pearl River Community College,Poplarville,,Public,6011.0,1921.0,Mississippi
+Rust College,Holly Springs,,Private,467.0,1866.0,Mississippi
+Southeastern Baptist College,Laurel,,Private,93.0,1948.0,Mississippi
+Southwest Mississippi Community College,Summit,,Public,1758.0,1908.0,Mississippi
+Tougaloo College,Tougaloo,,Private,1301.0,1869.0,Mississippi
+University of Mississippi,Oxford,,Public,26449.0,1848.0,Mississippi
+University of Southern Mississippi,Hattiesburg,,Public,13170.0,1910.0,Mississippi
+Wesley Biblical Seminary,Ridgeland,,Private,170.0,1974.0,Mississippi
+William Carey University,Hattiesburg,,Private,5321.0,1892.0,Mississippi
+Cameron University,Lawton,Public,Masters University,3696.0,1908.0,Oklahoma
+East Central University,Ada,Public,Masters University,3377.0,1909.0,Oklahoma
+Langston University,Langston,Public,Masters University,1937.0,1897.0,Oklahoma
+Northeastern State University,Tahlequah,Public,Masters University,6751.0,1909.0,Oklahoma
+Northwestern Oklahoma State University,Alva,Public,Masters University,2079.0,1897.0,Oklahoma
+Oklahoma Panhandle State University,Goodwell,Public,Masters University,1021.0,1909.0,Oklahoma
+Oklahoma State University,Stillwater,Public,Research University,27278.0,1890.0,Oklahoma
+Oklahoma State University - Center for Health Sciences,Tulsa,Public,Research University,2256.0,1972.0,Oklahoma
+Rogers State University,Claremore,Public,Baccalaureate / Associates Colleges,3272.0,1909.0,Oklahoma
+Southeastern Oklahoma State University,Durant,Public,Masters University,5851.0,1909.0,Oklahoma
+Southwestern Oklahoma State University,Weatherford,Public,Masters University,4811.0,1901.0,Oklahoma
+University of Central Oklahoma,Edmond,Public,Masters University,12554.0,1890.0,Oklahoma
+University of Oklahoma,Norman,Public,Research University,30851.0,1890.0,Oklahoma
+University of Oklahoma Health Sciences Center,Oklahoma City,Public,Research University,3680.0,1971.0,Oklahoma
+University of Science & Arts of Oklahoma,Chickasha,Public,Baccalaureate / Associates Colleges,1027.0,1908.0,Oklahoma
+Oklahoma State University Institute of Technology,Okmulgee,Public,Baccalaureate / Associates Colleges,2396.0,1946.0,Oklahoma
+Mid-America Christian University,Oklahoma City,Private,Masters University,2397.0,1953.0,Oklahoma
+Oklahoma Baptist University,Shawnee,Private,Baccalaureate / Associates Colleges,1569.0,1910.0,Oklahoma
+Oklahoma Christian University,Oklahoma City,Private,Masters University,2851.0,1950.0,Oklahoma
+Oklahoma City University,Oklahoma City,Private,Masters University,2966.0,1904.0,Oklahoma
+Oral Roberts University,Tulsa,Private,Masters University,5936.0,1963.0,Oklahoma
+Randall University,Moore,Private,Research University,298.0,1959.0,Oklahoma
+Saint Paul School of Theology,Oklahoma City,Private,Seminary,,1958.0,Oklahoma
+Southern Nazarene University,Bethany,Private,Masters University,2198.0,1899.0,Oklahoma
+Southwestern Christian University,Bethany,Private,Baccalaureate / Associates Colleges,399.0,1946.0,Oklahoma
+University of Tulsa,Tulsa,Private,Research University,3914.0,1894.0,Oklahoma
+Family of Faith Christian University,Shawnee,Private,Faith-related Institution,320.0,1989.0,Oklahoma
+Heartland Baptist Bible College,Oklahoma City,Private,Unaccredited,,1966.0,Oklahoma
+Oklahoma Wesleyan University,Bartlesville,Private,Baccalaureate / Associates Colleges,880.0,1905.0,Oklahoma
+Phillips Theological Seminary,Tulsa,Private,Special Focus Institution,103.0,1987.0,Oklahoma
+Spartan College of Aeronautics and Technology,Tulsa,Private,Technology-related Institution,840.0,1928.0,Oklahoma
+Allen University,Columbia,Private,Special Focus: Arts and Sciences,610.0,1870.0,South Carolina
+Anderson University,Anderson,Private,Undergraduate/Graduate-Doctorate,4710.0,1911.0,South Carolina
+Benedict College,Columbia,Private,Baccalaureate,1691.0,1870.0,South Carolina
+Bob Jones University,Greenville,Private,Baccalaureate,2734.0,1927.0,South Carolina
+Charleston School of Law,Charleston,Private,Special Focus: Law,692.0,2003.0,South Carolina
+Charleston Southern University,North Charleston,Private,Undergraduate/Graduate-Doctorate,3832.0,1964.0,South Carolina
+"The Citadel, The Military College of South Carolina",Charleston,Public,Undergraduate/Graduate-Master's,3793.0,1842.0,South Carolina
+Claflin University,Orangeburg,Private,Special Focus: Arts and Sciences,1852.0,1869.0,South Carolina
+Clemson University,Clemson,Public,Undergraduate/Graduate-Doctorate (R1),29077.0,1889.0,South Carolina
+Clinton College,Rock Hill,Private,Special Focus: Business,126.0,1894.0,South Carolina
+Coastal Carolina University,Conway,Public,Undergraduate/Graduate-Master's (Research),11348.0,1954.0,South Carolina
+Coker University,Hartsville,Private,Baccalaureate,1325.0,1908.0,South Carolina
+College of Charleston,Charleston,Public,Undergraduate/Graduate-Master's (Research),11926.0,1770.0,South Carolina
+Columbia College,Columbia,Private,Undergraduate/Graduate-Master's,1725.0,1854.0,South Carolina
+Columbia International University,Columbia,Private,Undergraduate/Graduate-Doctorate,2914.0,1923.0,South Carolina
+Converse University,Spartanburg,Private,Undergraduate/Graduate-Doctorate,1787.0,1890.0,South Carolina
+Erskine College,Due West,Private,Baccalaureate,912.0,1839.0,South Carolina
+Francis Marion University,Florence,Public,Baccalaureate,4112.0,1970.0,South Carolina
+Furman University,Greenville,Private,Special Focus: Arts and Sciences,2554.0,1826.0,South Carolina
+Lander University,Greenwood,Public,Baccalaureate,4378.0,1872.0,South Carolina
+Medical University of South Carolina,Charleston,Public,Special Focus: Medical Schools and Centers (R1),3246.0,1824.0,South Carolina
+Morris College,Sumter,Private,Baccalaureate,383.0,1908.0,South Carolina
+Newberry College,Newberry,Private,Baccalaureate,1536.0,1856.0,South Carolina
+North Greenville University,Tigerville,Private,Baccalaureate,2304.0,1891.0,South Carolina
+Presbyterian College,Clinton,Private,Undergraduate/Graduate-Doctorate,1095.0,1880.0,South Carolina
+Sherman College of Chiropractic,Spartanburg,Private,Special Focus: Other Health Professions,387.0,1973.0,South Carolina
+South Carolina State University,Orangeburg,Public,Baccalaureate (R2),3242.0,1896.0,South Carolina
+Southern Wesleyan University,Central,Private,Baccalaureate,980.0,1906.0,South Carolina
+Spartanburg Methodist College,Spartanburg,Private,Associate/Baccalaureate,1119.0,1911.0,South Carolina
+University of South Carolina Aiken,Aiken,Public,Undergraduate/Graduate-Master's,4022.0,1961.0,South Carolina
+University of South Carolina Beaufort,Beaufort,Public,Baccalaureate,2208.0,1959.0,South Carolina
+University of South Carolina Columbia (Main campus),Columbia,Public,Undergraduate/Graduate-Doctorate (R1),38532.0,1801.0,South Carolina
+University of South Carolina Upstate,Spartanburg,Public,Baccalaureate,4916.0,1967.0,South Carolina
+Voorhees University,Denmark,Private,Baccalaureate,578.0,1897.0,South Carolina
+Winthrop University,Rock Hill,Public,Undergraduate/Graduate-Master's (Research),4894.0,1886.0,South Carolina
+Wofford College,Spartanburg,Private,Special Focus: Arts and Sciences,1817.0,1854.0,South Carolina
+Aiken Technical College,Aiken,Public,Associate's college,2307.0,1972.0,South Carolina
+Central Carolina Technical College,Sumter,Public,Associate's college,2825.0,1962.0,South Carolina
+Denmark Technical College,Denmark,Public,Associate's college,675.0,1947.0,South Carolina
+Florence–Darlington Technical College,Florence,Public,Associate's college,3522.0,1963.0,South Carolina
+Greenville Technical College,Greenville,Public,Associate's college,11999.0,1962.0,South Carolina
+Horry-Georgetown Technical College,Conway,Public,Associate's college,7923.0,1966.0,South Carolina
+Midlands Technical College,West Columbia,Public,Associate's college,9226.0,1973.0,South Carolina
+Northeastern Technical College,Cheraw,Public,Associate's college,1428.0,1968.0,South Carolina
+Orangeburg–Calhoun Technical College,Orangeburg,Public,Associate's college,2106.0,1968.0,South Carolina
+Piedmont Technical College,Greenwood,Public,Associate's college,5143.0,1966.0,South Carolina
+Spartanburg Community College,Spartanburg,Public,Associate's college,6653.0,1963.0,South Carolina
+Technical College of the Lowcountry,Beaufort,Public,Associate's college,2461.0,1868.0,South Carolina
+Tri-County Technical College,Pendleton,Public,Associate's college,5890.0,1962.0,South Carolina
+Trident Technical College,North Charleston,Public,Associate's college,13552.0,1964.0,South Carolina
+University of South Carolina Lancaster,Lancaster,Public,Associate's college,2687.0,1959.0,South Carolina
+University of South Carolina Salkehatchie,Allendale,Public,Associate's college,799.0,1965.0,South Carolina
+University of South Carolina Sumter,Sumter,Public,Associate's college,1845.0,1966.0,South Carolina
+University of South Carolina Union,Union,Public,Associate's college,1402.0,1965.0,South Carolina
+Williamsburg Technical College,Kingstree,Public,Associate's college,668.0,1969.0,South Carolina
+York Technical College,Rock Hill,Public,Associate's college,4771.0,1964.0,South Carolina
+American Public University System,Charles Town,Private,Master's university,50715.0,1991.0,West Virginia
+Appalachian Bible College,Mount Hope,Private,Special-focus institution,223.0,1950.0,West Virginia
+Bethany College,Bethany,Private,Baccalaureate college,640.0,1840.0,West Virginia
+Blue Ridge Community and Technical College,Martinsburg,Public,Associate's college,4203.0,1974.0,West Virginia
+Bluefield State University,Bluefield,Public,Baccalaureate college,1141.0,1895.0,West Virginia
+BridgeValley Community and Technical College,South Charleston and Montgomery,Public,Associate's college,1927.0,1953.0,West Virginia
+Catholic International University,Charles Town,Private,Master's university,230.0,1983.0,West Virginia
+University of Charleston,Charleston,Private,Doctoral/Professional university,3062.0,1888.0,West Virginia
+Concord University,Athens,Public,Master's university,1943.0,1872.0,West Virginia
+Davis & Elkins College,Elkins,Private,Baccalaureate college,661.0,1904.0,West Virginia
+Eastern West Virginia Community and Technical College,Moorefield,Public,Associate's college,465.0,1999.0,West Virginia
+Fairmont State University,Fairmont,Public,Master's university,3305.0,1865.0,West Virginia
+Future Generations University,Franklin,Private,Special focus institution,48.0,2003.0,West Virginia
+Glenville State University,Glenville,Public,Baccalaureate college,1765.0,1872.0,West Virginia
+Huntington Junior College,Huntington,Private,Special focus institution,182.0,1936.0,West Virginia
+Marshall University,Huntington,Public,Research university,11958.0,1837.0,West Virginia
+Mountwest Community and Technical College,Huntington,Public,Associate's college,1520.0,1975.0,West Virginia
+New River Community and Technical College,Beckley,Public,Associate's college,1571.0,2003.0,West Virginia
+Pierpont Community and Technical College,Fairmont,Public,Associate's college,1938.0,1974.0,West Virginia
+Potomac State College of West Virginia University,Keyser,Public,Associate's college,1077.0,1901.0,West Virginia
+Salem University,Salem,Private,Master's university,1083.0,1888.0,West Virginia
+Shepherd University,Shepherdstown,Public,Master's university,3339.0,1871.0,West Virginia
+Southern West Virginia Community and Technical College,Mount Gay,Public,Associate's college,1482.0,1971.0,West Virginia
+Valley College,Beckley and Martinsburg,Private,Associate's college,930.0,1983.0,West Virginia
+West Liberty University,West Liberty,Public,Master's university,2299.0,1837.0,West Virginia
+West Virginia Junior College–Bridgeport,Bridgeport,Private,Special focus institution,146.0,1922.0,West Virginia
+West Virginia Junior College–Charleston,Cross Lanes,Private,Associate's college,394.0,1892.0,West Virginia
+West Virginia Junior College–Morgantown,Morgantown,Private,Associate's college,673.0,1922.0,West Virginia
+West Virginia Northern Community College,Wheeling,Public,Associate's college,1525.0,1972.0,West Virginia
+West Virginia School of Osteopathic Medicine,Lewisburg,Public,Special-focus institution,835.0,1972.0,West Virginia
+West Virginia State University,Institute,Public,Master's university,3246.0,1891.0,West Virginia
+West Virginia University,Morgantown,Public,Research university,23643.0,1867.0,West Virginia
+West Virginia University at Parkersburg,Parkersburg,Public,Baccalaureate college,2728.0,1961.0,West Virginia
+West Virginia University Institute of Technology,Beckley,Public,Baccalaureate college,1278.0,1895.0,West Virginia
+West Virginia Wesleyan College,Buckhannon,Private,Baccalaureate college,1055.0,1890.0,West Virginia
+Wheeling University,Wheeling,Private,Master's university,774.0,1954.0,West Virginia
+The College of New Jersey,Ewing Township,Public,Master's,8141.0,1855.0,New Jersey
+Kean Jersey City,Jersey City,Public,Master's,5429.0,1927.0,New Jersey
+Kean University,Union and Hillside,Public,Doctoral/Professional Universities,13905.0,1855.0,New Jersey
+Montclair State University,"Montclair , Little Falls , and Bloomfield",Public,Research university,23375.0,1908.0,New Jersey
+New Jersey Institute of Technology,Newark,Public,Research university,13247.0,1881.0,New Jersey
+Ramapo College,Mahwah,Public,Master's,5981.0,1969.0,New Jersey
+Rowan University,"Glassboro , Camden , and Stratford",Public,Research university,21026.0,1923.0,New Jersey
+Rutgers University,"New Brunswick , Piscataway , Camden , and Newark",Public,Research university,69259.0,1766.0,New Jersey
+Stockton University,Galloway and Atlantic City,Public,Master's,8631.0,1969.0,New Jersey
+Thomas Edison State University,Trenton,Public,Master's,7544.0,1972.0,New Jersey
+William Paterson University,Wayne,Public,Master's,9942.0,1855.0,New Jersey
+Caldwell University,Caldwell,Private,Master's,2005.0,1939.0,New Jersey
+Centenary University,"Hackettstown , Long Valley , Parsippany , Edison , and Pleasantville",Private,Master's,1398.0,1867.0,New Jersey
+Drew University,Madison,Private,Master's,2232.0,1867.0,New Jersey
+Fairleigh Dickinson University,"Madison , Florham Park , Teaneck , and Hackensack",Private,Master's,10930.0,1942.0,New Jersey
+Felician University,Lodi and Rutherford,Private,Master's,2427.0,1942.0,New Jersey
+Georgian Court University,Lakewood,Private,Master's,2013.0,1908.0,New Jersey
+Monmouth University,West Long Branch,Private,Research university,4767.0,1933.0,New Jersey
+Princeton University,Princeton,Private,Research university,9137.0,1746.0,New Jersey
+Rider University,Lawrence,Private,Master's,4003.0,1865.0,New Jersey
+Saint Elizabeth University,Morris Twp. and Florham Park,Private,Master's,871.0,1899.0,New Jersey
+Saint Peter's University,Jersey City,Private,Master's,3572.0,1872.0,New Jersey
+Seton Hall University,"South Orange , Newark , and Nutley",Private,Research university,9571.0,1856.0,New Jersey
+Stevens Institute of Technology,Hoboken,Private,Research university,8469.0,1870.0,New Jersey
+Atlantic Cape Community College,,,,4052.0,1964.0,New Jersey
+Bergen Community College,,,,11720.0,1965.0,New Jersey
+Brookdale Community College,,,,9900.0,1967.0,New Jersey
+Camden County College,,,,7622.0,1967.0,New Jersey
+County College of Morris,,,,6131.0,1968.0,New Jersey
+Essex County College,,,,7026.0,1966.0,New Jersey
+Hudson County Community College,,,,7763.0,1974.0,New Jersey
+Mercer County Community College,,,,6394.0,1966.0,New Jersey
+Middlesex College,,,,12044.0,1964.0,New Jersey
+Ocean County College,,,,7095.0,1964.0,New Jersey
+Passaic County Community College,,,,4782.0,1971.0,New Jersey
+Raritan Valley Community College,,,,6762.0,1965.0,New Jersey
+Rowan College at Burlington County,,,,6620.0,1966.0,New Jersey
+Rowan College of South Jersey,,,,7904.0,1966.0,New Jersey
+Salem Community College,,,,1135.0,1958.0,New Jersey
+Sussex County Community College,,,,2247.0,1981.0,New Jersey
+"UCNJ Union College of Union County, NJ",,,,8330.0,1933.0,New Jersey
+Warren County Community College,,,,944.0,1981.0,New Jersey
+Hackensack Meridian School of Medicine,Nutley,Private,Special Focus,610.0,2015.0,New Jersey
+American Institute of Medical Sciences and Education,Piscataway,Proprietary (for-profit),Special focus,472.0,2004.0,New Jersey
+Berkeley College,"Newark , Woodland Park , Woodbridge , and New York City",Proprietary (for-profit),Master's,1996.0,1931.0,New Jersey
+Best Care College,South Harrison,Proprietary (for-profit),Special focus,44.0,1997.0,New Jersey
+Chamberlain University,North Brunswick,Proprietary (for-profit),Special focus,1226.0,1889.0,New Jersey
+CTOR Academy,Hoboken,Proprietary (for-profit),Special focus,,2007.0,New Jersey
+DeVry University,Iselin,Proprietary (for-profit),Baccalaureate,67.0,1931.0,New Jersey
+Eastern International College,Jersey City and Belleville,Proprietary (for-profit),Special focus,495.0,1990.0,New Jersey
+Eastern School of Acupuncture and Traditional Medicine,Bloomfield,Proprietary (for-profit),Special Focus,42.0,1997.0,New Jersey
+Eastwick College,"Ramsey , Hackensack , Paterson , and Nutley",Proprietary (for-profit),Not classified,2992.0,1985.0,New Jersey
+Jersey College,"Teterboro , Ewing , Tampa , Jacksonville , and Fort Lauderdale",Proprietary (for-profit),Special focus,4478.0,2003.0,New Jersey
+Lincoln Technical Institute,"Edison , Mahwah , Moorestown , Paramus , South Plainfield , Union",Proprietary (for-profit),Baccalaureate Associate's,5115.0,1947.0,New Jersey
+Strayer University,Piscataway,Proprietary (for-profit),Master's,796.0,1892.0,New Jersey
+Assumption College for Sisters,Denville,Private,Associates,30.0,1953.0,New Jersey
+Pillar College,Zarephath ( Franklin Twp. ) and Newark,Private,Special focus institution,556.0,1908.0,New Jersey
